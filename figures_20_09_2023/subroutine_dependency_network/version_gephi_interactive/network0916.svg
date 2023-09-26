@@ -1,0 +1,3745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentScriptType="text/ecmascript"
+   width="1776.5137"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-968.998657 -914.064087 1776.513672 1788.663574"
+   height="1788.6636"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg392"
+   sodipodi:docname="networkLI.svg"
+   inkscape:export-filename="networkLI.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs392" />
+  <sodipodi:namedview
+     id="namedview392"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:export-bgcolor="#ffffffff"
+     inkscape:zoom="2.0149341"
+     inkscape:cx="562.30127"
+     inkscape:cy="254.35075"
+     inkscape:window-width="1842"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="arrows" />
+  <g
+     id="edges">
+    <path
+       fill="none"
+       stroke-width="1"
+       d="m -478.7236,-626.5437 631.24667,391.12999"
+       class="id_0 id_1"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -524.088745,-638.906250 L -721.844116,-635.101563"
+       class="id_0 id_2"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path2" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 202.442673,-188.749496 L 310.467102,158.071259"
+       class="id_1 id_3"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path3" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 412.598450,262.308838 L 344.438202,207.816238"
+       class="id_52 id_3"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path4" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 362.299744,-308.979095 L 514.496521,1.676565"
+       class="id_4 id_6"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path5" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -160.017944,-75.073853 L -118.614685,489.486969"
+       class="id_5 id_8"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path6" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -479.566406,-653.490417 L -378.332520,-724.829834"
+       class="id_0 id_9"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path7" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -494.371582,-663.314575 L -454.841644,-844.525940"
+       class="id_0 id_10"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path8" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -172.890762,-121.359184 L -288.378113,-349.094635"
+       class="id_5 id_11"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path9" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -516.431885,-621.581116 L -636.197021,-495.003540"
+       class="id_0 id_12"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path10" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -181.398773,-114.223053 L -632.660950,-453.203400"
+       class="id_5 id_12"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path11" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -516.931946,-656.687073 L -663.641907,-803.151367"
+       class="id_0 id_13"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path12" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -489.052765,-617.260803 L -421.904877,-476.367737"
+       class="id_0 id_14"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path13" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -123.381683,497.445129 L -399.261566,-417.772430"
+       class="id_8 id_14"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path14" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -484.896149,-658.979614 L -354.479523,-832.921143"
+       class="id_0 id_15"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path15" />
+    <path
+       fill="none"
+       stroke-width="1"
+       d="m -476.01743,-632.71198 171.05607,48.601"
+       class="id_0 id_16"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -166.787506,-123.497253 L -253.360916,-540.727661"
+       class="id_5 id_16"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path17" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -475.495880,-643.800659 L -322.538330,-671.876343"
+       class="id_0 id_17"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path18" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 13.159408,-750.077148 L 19.425364,-870.191528"
+       class="id_54 id_18"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path19" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 347.758118,-355.189880 L 295.948364,-688.541443"
+       class="id_4 id_19"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path20" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -495.605469,-145.284821 L -579.526123,-233.956940"
+       class="id_56 id_21"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path21" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -505.881409,-615.698181 L -593.093872,-287.280151"
+       class="id_0 id_21"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path22" />
+    <path
+       fill="none"
+       stroke-width="1"
+       d="m -185.41249,-106.2865 -346.4302,-134.88692"
+       class="id_5 id_21"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path23"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="0.877857"
+       d="M 171.39873,-206.30634 27.894969,-173.8863"
+       class="id_1 id_22"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path24" />
+    <path
+       fill="none"
+       stroke-width="1"
+       d="m -139.15646,-108.83948 87.667422,-35.47369"
+       class="id_5 id_22"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 193.189560,-236.561981 L 166.040039,-573.577759"
+       class="id_1 id_23"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path26" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 31.670792,-879.562622 L 149.876389,-633.372437"
+       class="id_18 id_23"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path27" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -585.214844,268.134155 L -619.749939,345.484344"
+       class="id_81 id_25"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path28" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -529.871887,512.524536 L -613.807861,399.534088"
+       class="id_24 id_25"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path29" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -534.665344,547.150269 L -601.718750,598.843079"
+       class="id_24 id_26"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path30" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -651.280701,390.090271 L -723.836060,451.596497"
+       class="id_25 id_27"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path31" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -581.358215,222.042404 L -659.562622,-80.489647"
+       class="id_81 id_28"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path32" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -611.313354,-234.529800 L -654.415833,-139.665710"
+       class="id_21 id_28"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path33" />
+    <path
+       fill="none"
+       stroke-width="0.897631"
+       d="m 375.53902,-326.23557 215.1717,44.08017"
+       class="id_4 id_29"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path34" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -595.953552,258.825562 L -706.912537,328.755554"
+       class="id_81 id_30"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path35" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -643.562927,635.816467 L -712.067261,707.743164"
+       class="id_26 id_31"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path36" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -742.847839,707.788147 L -788.896912,592.030212"
+       class="id_31 id_32"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path37" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -184.267044,842.523499 L -146.534714,747.548706"
+       class="id_39 id_33"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path38" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -118.608627,545.294617 L -131.949982,686.913269"
+       class="id_8 id_33"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path39" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -92.947250,528.278015 L 209.179642,623.653625"
+       class="id_8 id_34"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path40" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 374.274353,573.053955 L 267.998962,620.332703"
+       class="id_86 id_34"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path41" />
+    <path
+       fill="none"
+       stroke-width="0.745764"
+       d="M -140.03048,514.94047 -312.071,456.89418"
+       class="id_8 id_35"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path42" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -560.914734,265.647980 L -454.277618,413.813599"
+       class="id_81 id_35"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path43" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 306.610168,208.770569 L 141.786087,465.825317"
+       class="id_3 id_37"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path44" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 372.948944,556.925232 L 155.267899,500.275726"
+       class="id_86 id_37"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path45" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -91.980865,518.020447 L 93.501999,496.047974"
+       class="id_8 id_37"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path46" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 300.537994,203.242264 L 190.375504,289.424530"
+       class="id_3 id_40"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path47" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -146.484833,-80.392982 L 145.861969,284.257050"
+       class="id_5 id_40"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path48" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 380.180817,544.965210 L 186.752121,332.144348"
+       class="id_86 id_40"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path49" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -183.661224,-88.428085 L -457.912811,50.636559"
+       class="id_5 id_41"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path50" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -564.388611,223.790222 L -499.941833,93.132782"
+       class="id_81 id_41"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path51" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 322.075531,212.543472 L 333.736176,339.492493"
+       class="id_3 id_42"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path52" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 389.354980,539.709778 L 346.008545,400.927979"
+       class="id_86 id_42"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path53" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 298.631165,175.871582 L 226.606796,134.176849"
+       class="id_3 id_43"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path54" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -140.832397,-86.851433 L 172.374207,102.122192"
+       class="id_5 id_43"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path55" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -507.948669,-662.408752 L -574.767822,-846.592896"
+       class="id_0 id_44"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path56" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 171.145828,-217.011414 L 10.129419,-249.671387"
+       class="id_1 id_45"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path57" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -145.401917,-117.702415 L -41.837887,-232.540680"
+       class="id_5 id_45"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path58" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 182.993866,-190.873489 L -27.959091,177.988266"
+       class="id_1 id_46"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path59" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -110.809624,497.028168 L -50.670116,236.028015"
+       class="id_8 id_46"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path60" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -161.610489,-124.007423 L -156.549698,-745.809021"
+       class="id_5 id_47"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path61" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 1.005243,-887.584595 L -130.500443,-795.390503"
+       class="id_18 id_47"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path62" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 216.608856,-200.306290 L 277.096344,-166.936005"
+       class="id_1 id_49"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path63" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -183.287598,-111.296288 L -657.844971,-371.757446"
+       class="id_5 id_50"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path64" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -126.935471,498.826233 L -274.752655,191.687408"
+       class="id_8 id_51"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path65" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 185.963028,-234.850647 L 88.874443,-474.667480"
+       class="id_1 id_53"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path66" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 70.145439,-527.371338 L 20.765236,-695.388611"
+       class="id_53 id_54"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path67" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -524.811646,-32.168461 L -492.466339,-99.126579"
+       class="id_55 id_56"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path68" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -301.831329,142.804779 L -461.512512,-101.134995"
+       class="id_51 id_56"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path69" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -186.214966,-101.662827 L -447.386688,-124.720329"
+       class="id_5 id_56"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path70" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -132.805176,502.786743 L -360.088226,253.161697"
+       class="id_8 id_57"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path71" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -95.267410,533.449585 L 136.733246,671.779236"
+       class="id_8 id_58"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path72" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 255.228241,-551.218567 L 178.672623,-718.711792"
+       class="id_66 id_65"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path73" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 37.814728,-883.767395 L 144.044403,-770.351379"
+       class="id_18 id_65"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path74" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 341.748108,-353.447083 L 277.977783,-500.050232"
+       class="id_4 id_66"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path75" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -139.249222,529.509399 L -354.972748,610.451477"
+       class="id_8 id_75"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path76" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -155.227539,-123.107437 L -60.467484,-462.843353"
+       class="id_5 id_76"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path77" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 178.977295,-230.538696 L -31.202145,-469.531128"
+       class="id_1 id_76"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path78" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -98.315483,504.276703 L 26.666576,388.805298"
+       class="id_8 id_77"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path79" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 189.196960,-188.377060 L 57.466091,336.875366"
+       class="id_1 id_77"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path80" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -99.733612,538.942749 L 103.660828,760.288086"
+       class="id_8 id_78"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path81" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -404.885925,635.053894 L -514.804932,707.916687"
+       class="id_75 id_80"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path82" />
+    <path
+       fill="none"
+       stroke-width="1"
+       d="M 174.0963,-199.62302 -522.83762,220.73474"
+       class="id_1 id_81"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path83"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -137.323563,508.304504 L -548.210022,261.960236"
+       class="id_8 id_81"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path84" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -132.253632,539.505676 L -250.215256,677.150085"
+       class="id_8 id_82"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path85" />
+    <path
+       fill="none"
+       stroke-width="0.942071"
+       d="M -597.69415,236.04926 -742.28069,174.5903"
+       class="id_81 id_83"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path86" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 289.073059,-744.082825 L 281.642029,-833.122803"
+       class="id_19 id_89"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path87" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -289.707886,716.542603 L -375.040100,786.059998"
+       class="id_82 id_93"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path88" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -108.068748,543.974609 L -17.057140,798.745728"
+       class="id_8 id_103"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path89" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -522.135071,-629.779663 L -736.396667,-538.551086"
+       class="id_0 id_104"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path90" />
+    <path
+       fill="none"
+       stroke-width="1"
+       d="m 374.71677,-338.86688 243.20497,-78.80911"
+       class="id_4 id_105"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path91"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 542.989319,49.613407 L 650.680786,194.211380"
+       class="id_6 id_107"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path92" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 662.343811,299.682556 L 666.698242,250.850220"
+       class="id_7 id_107"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path93" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 547.016296,14.089210 L 635.421814,-61.117050"
+       class="id_6 id_108"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path94" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 370.473511,-315.454956 L 562.685913,-158.000031"
+       class="id_4 id_109"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path95" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -53.051640,-517.662781 L -56.271168,-592.918335"
+       class="id_76 id_112"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path96" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 362.470886,-352.897308 L 535.246765,-698.709778"
+       class="id_4 id_113"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path97" />
+    <path
+       fill="none"
+       stroke-width="0.771853"
+       d="m -522.81395,-647.002 -170.30242,-64.42718"
+       class="id_0 id_114"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path98" />
+    <path
+       fill="none"
+       stroke-width="0.850227"
+       d="m -623.36273,-267.09082 -95.05303,-44.39967"
+       class="id_21 id_115"
+       stroke-opacity="1"
+       stroke="#000000"
+       id="path99"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -590.728882,226.790970 L -697.471802,96.159630"
+       class="id_81 id_116"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path100" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M -735.380981,55.122364 L -781.187195,12.711304"
+       class="id_116 id_117"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path101" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 373.543182,-320.244476 L 622.653503,-198.801895"
+       class="id_4 id_118"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path102" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 355.515564,-355.152649 L 397.741272,-610.655090"
+       class="id_4 id_121"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path103" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 528.907227,54.457920 L 536.775085,403.557648"
+       class="id_6 id_122"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path104" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 414.786285,546.613586 L 514.178589,456.240906"
+       class="id_86 id_122"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path105" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 406.184204,-666.009338 L 421.667694,-779.679199"
+       class="id_121 id_123"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path106" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 326.900940,164.687347 L 374.089172,8.032719"
+       class="id_3 id_125"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path107" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 354.018646,-306.608215 L 379.962952,-53.464481"
+       class="id_4 id_125"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path108" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 371.665924,-344.924042 L 632.999939,-525.806885"
+       class="id_4 id_127"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path109" />
+    <path
+       fill="none"
+       stroke-width="1.0"
+       d="M 368.284790,-348.847168 L 609.883240,-606.336182"
+       class="id_4 id_128"
+       stroke-opacity="1.0"
+       stroke="#000000"
+       id="path110" />
+  </g>
+  <g
+     id="arrows">
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_1"
+       points="174.287201,-224.974899 166.491028,-225.660309 170.157837,-231.623077"
+       stroke="none"
+       id="polyline110" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_2"
+       points="-728.842773,-634.966919 -721.911438,-638.600891 -721.776794,-631.602234"
+       stroke="none"
+       id="polyline111" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_3"
+       points="312.548767,164.754578 307.125458,159.112091 313.808746,157.030426"
+       stroke="none"
+       id="polyline112" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_52 id_3"
+       points="338.970734,203.445114 346.623749,205.082504 342.252655,210.549973"
+       stroke="none"
+       id="polyline113" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_6"
+       points="517.576233,7.962694 511.353455,3.216419 517.639587,0.136711"
+       stroke="none"
+       id="polyline114" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_8"
+       points="-118.102699,496.468201 -122.105309,489.742950 -115.124062,489.230988"
+       stroke="none"
+       id="polyline115" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_9"
+       points="-372.610565,-728.862061 -376.316376,-721.968872 -380.348663,-727.690796"
+       stroke="none"
+       id="polyline116" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_10"
+       points="-453.349731,-851.365112 -451.422058,-843.779968 -458.261230,-845.271912"
+       stroke="none"
+       id="polyline117" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_11"
+       points="-291.544067,-355.337769 -285.256561,-350.677612 -291.499664,-347.511658"
+       stroke="none"
+       id="polyline118" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_12"
+       points="-641.008057,-489.918854 -638.739380,-497.409058 -633.654663,-492.598022"
+       stroke="none"
+       id="polyline119" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_12"
+       points="-638.257751,-457.407654 -630.558838,-456.001801 -634.763062,-450.404999"
+       stroke="none"
+       id="polyline120" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_13"
+       points="-668.595825,-808.096985 -661.169128,-805.628296 -666.114685,-800.674438"
+       stroke="none"
+       id="polyline121" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_14"
+       points="-418.893280,-470.048676 -425.064392,-474.861938 -418.745361,-477.873535"
+       stroke="none"
+       id="polyline122" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_14"
+       points="-401.281830,-424.474548 -395.910492,-418.782562 -402.612640,-416.762299"
+       stroke="none"
+       id="polyline123" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_15"
+       points="-350.280334,-838.521790 -351.679230,-830.821533 -357.279816,-835.020752"
+       stroke="none"
+       id="polyline124" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_0 id_16"
+       points="-283.336578,-578.236206 -291.024750,-576.772644 -289.120331,-583.508606"
+       stroke="none"
+       id="polyline125"
+       transform="translate(-15.881413,-3.9703532)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_16"
+       points="-254.783096,-547.581665 -249.933914,-541.438721 -256.787933,-540.016602"
+       stroke="none"
+       id="polyline126" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_17"
+       points="-315.653381,-673.140076 -321.906464,-668.433838 -323.170197,-675.318848"
+       stroke="none"
+       id="polyline127" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_54 id_18"
+       points="19.790033,-877.182007 22.920610,-870.009216 15.930117,-870.373840"
+       stroke="none"
+       id="polyline128" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_19"
+       points="294.873322,-695.458374 299.406830,-689.078979 292.489899,-688.003906"
+       stroke="none"
+       id="polyline129" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_56 id_21"
+       points="-584.337769,-239.041016 -576.984070,-236.362762 -582.068176,-231.551117"
+       stroke="none"
+       id="polyline130" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_21"
+       points="-594.890503,-280.514648 -596.476624,-288.178467 -589.711121,-286.381836"
+       stroke="none"
+       id="polyline131" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_21"
+       points="-578.112732,-248.576019 -570.342529,-249.511337 -572.702393,-242.921097"
+       stroke="none"
+       id="polyline132" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_1 id_22"
+       points="8.653866,-165.833893 14.604171,-170.917587 16.290997,-164.123856"
+       stroke="none"
+       id="polyline133"
+       transform="translate(12.467251,-6.4347107)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_5 id_22"
+       points="-37.777580,-150.598770 -42.916954,-144.696487 -45.583023,-151.168900"
+       stroke="none"
+       id="polyline134"
+       transform="translate(-7.2390491,3.2173551)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_23"
+       points="165.477951,-580.555115 169.528732,-573.858826 162.551346,-573.296692"
+       stroke="none"
+       id="polyline135" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_18 id_23"
+       points="152.906219,-627.062134 146.721222,-631.857544 153.031555,-634.887329"
+       stroke="none"
+       id="polyline136" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_25"
+       points="-622.603760,351.876221 -622.945862,344.057434 -616.554016,346.911255"
+       stroke="none"
+       id="polyline137" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_24 id_25"
+       points="-617.982117,393.914886 -610.998230,397.446960 -616.617493,401.621216"
+       stroke="none"
+       id="polyline138" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_24 id_26"
+       points="-607.262573,603.116943 -603.855652,596.071167 -599.581848,601.614990"
+       stroke="none"
+       id="polyline139" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_25 id_27"
+       points="-729.175659,456.122955 -726.099304,448.926697 -721.572815,454.266296"
+       stroke="none"
+       id="polyline140" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_28"
+       points="-661.314514,-87.266876 -656.174011,-81.365601 -662.951233,-79.613693"
+       stroke="none"
+       id="polyline141" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_21 id_28"
+       points="-657.311462,-133.292694 -657.602356,-141.113525 -651.229309,-138.217896"
+       stroke="none"
+       id="polyline142" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_4 id_29"
+       points="625.359436,-276.366547 617.810059,-274.303253 619.179199,-281.168060"
+       stroke="none"
+       id="polyline143"
+       transform="translate(-27.296178,-4.9629414)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_30"
+       points="-712.834595,332.487823 -708.778687,325.794556 -705.046387,331.716553"
+       stroke="none"
+       id="polyline144" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_26 id_31"
+       points="-716.894958,712.812012 -714.601685,705.329346 -709.532837,710.156982"
+       stroke="none"
+       id="polyline145" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_31 id_32"
+       points="-791.484314,585.526001 -785.644775,590.736511 -792.149048,593.323914"
+       stroke="none"
+       id="polyline146" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_39 id_33"
+       points="-143.950195,741.043335 -143.282013,748.840942 -149.787415,746.256470"
+       stroke="none"
+       id="polyline147" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_33"
+       points="-132.606506,693.882385 -135.434555,686.585022 -128.465408,687.241516"
+       stroke="none"
+       id="polyline148" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_34"
+       points="215.854919,625.760864 208.126007,626.991272 210.233276,620.315979"
+       stroke="none"
+       id="polyline149" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_86 id_34"
+       points="261.603271,623.177979 266.576355,617.134888 269.421570,623.530518"
+       stroke="none"
+       id="polyline150" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_35"
+       points="-412.137085,445.436432 -404.489166,443.775360 -406.219452,450.558136"
+       stroke="none"
+       id="polyline151" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_35"
+       points="-450.188538,419.495117 -457.118378,415.858124 -451.436859,411.769073"
+       stroke="none"
+       id="polyline152" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_3 id_37"
+       points="138.007675,471.717987 138.839752,463.936127 144.732422,467.714508"
+       stroke="none"
+       id="polyline153" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_86 id_37"
+       points="148.493530,498.512756 156.149384,496.888550 154.386414,503.662903"
+       stroke="none"
+       id="polyline154" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_37"
+       points="100.453400,495.224518 93.913734,499.523682 93.090263,492.572266"
+       stroke="none"
+       id="polyline155" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_3 id_40"
+       points="184.862198,293.737701 188.218918,286.667877 192.532089,292.181183"
+       stroke="none"
+       id="polyline156" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_40"
+       points="150.240555,289.718567 143.131226,286.446350 148.592712,282.067749"
+       stroke="none"
+       id="polyline157" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_86 id_40"
+       points="182.044006,326.964233 189.342178,329.790283 184.162064,334.498413"
+       stroke="none"
+       id="polyline158" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_41"
+       points="-464.156067,53.802311 -459.495697,47.514942 -456.329926,53.758175"
+       stroke="none"
+       id="polyline159" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_41"
+       points="-496.845306,86.854927 -496.802917,94.681053 -503.080750,91.584511"
+       stroke="none"
+       id="polyline160" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_3 id_42"
+       points="334.376434,346.463135 330.250854,339.812622 337.221497,339.172363"
+       stroke="none"
+       id="polyline161" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_86 id_42"
+       points="343.921631,394.246307 349.349396,399.884521 342.667694,401.971436"
+       stroke="none"
+       id="polyline162" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_3 id_43"
+       points="220.548676,130.669815 228.360306,131.147797 224.853287,137.205902"
+       stroke="none"
+       id="polyline163" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_43"
+       points="178.367783,105.738419 170.566086,105.118980 174.182327,99.125404"
+       stroke="none"
+       id="polyline164" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_44"
+       points="-577.155090,-853.173218 -571.477661,-847.786499 -578.057983,-845.399292"
+       stroke="none"
+       id="polyline165" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_45"
+       points="3.269121,-251.062897 10.825178,-253.101532 9.433661,-246.241241"
+       stroke="none"
+       id="polyline166" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_45"
+       points="-37.149895,-237.739029 -39.238716,-230.196686 -44.437057,-234.884674"
+       stroke="none"
+       id="polyline167" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_46"
+       points="-31.434235,184.064728 -30.997322,176.250702 -24.920860,179.725830"
+       stroke="none"
+       id="polyline168" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_46"
+       points="-49.098366,229.206757 -47.259487,236.813889 -54.080746,235.242142"
+       stroke="none"
+       id="polyline169" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_47"
+       points="-156.492737,-752.808777 -153.049820,-745.780518 -160.049576,-745.837524"
+       stroke="none"
+       id="polyline170" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_18 id_47"
+       points="-136.232193,-791.372131 -132.509613,-798.256409 -128.491272,-792.524597"
+       stroke="none"
+       id="polyline171" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_49"
+       points="283.225494,-163.554626 275.405670,-163.871429 278.787018,-170.000580"
+       stroke="none"
+       id="polyline172" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_50"
+       points="-663.981445,-375.125458 -656.160950,-374.825684 -659.528992,-368.689209"
+       stroke="none"
+       id="polyline173" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_51"
+       points="-277.788269,185.379883 -271.598877,190.169586 -277.906433,193.205231"
+       stroke="none"
+       id="polyline174" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_53"
+       points="86.247635,-481.155945 92.118660,-475.980896 85.630226,-473.354065"
+       stroke="none"
+       id="polyline175" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_53 id_54"
+       points="18.791418,-702.104553 24.123213,-696.375549 17.407259,-694.401672"
+       stroke="none"
+       id="polyline176" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_55 id_56"
+       points="-489.421509,-105.429680 -489.314789,-97.604172 -495.617889,-100.648987"
+       stroke="none"
+       id="polyline177" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_51 id_56"
+       points="-465.346313,-106.991776 -458.584106,-103.051895 -464.440918,-99.218094"
+       stroke="none"
+       id="polyline178" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_56"
+       points="-454.359558,-125.335930 -447.078888,-128.206772 -447.694489,-121.233887"
+       stroke="none"
+       id="polyline179" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_57"
+       points="-364.800903,247.985748 -357.500244,250.805344 -362.676208,255.518051"
+       stroke="none"
+       id="polyline180" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_58"
+       points="142.745636,675.364136 134.940811,674.785400 138.525681,668.773071"
+       stroke="none"
+       id="polyline181" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_66 id_65"
+       points="175.762695,-725.078308 181.855881,-720.166748 175.489365,-717.256836"
+       stroke="none"
+       id="polyline182" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_18 id_65"
+       points="148.829636,-765.242432 141.489929,-767.958740 146.598877,-772.744019"
+       stroke="none"
+       id="polyline183" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_66"
+       points="275.185608,-506.469238 281.187286,-501.446320 274.768280,-498.654144"
+       stroke="none"
+       id="polyline184" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_75"
+       points="-361.526581,612.910522 -356.202301,607.174561 -353.743195,613.728394"
+       stroke="none"
+       id="polyline185" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_5 id_76"
+       points="-58.586811,-469.585968 -57.096169,-461.903015 -63.838799,-463.783691"
+       stroke="none"
+       id="polyline186" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_76"
+       points="-35.824883,-474.787598 -28.573917,-471.842499 -33.830372,-467.219757"
+       stroke="none"
+       id="polyline187" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_77"
+       points="31.808081,384.055023 29.041704,391.376038 24.291449,386.234558"
+       stroke="none"
+       id="polyline188" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_1 id_77"
+       points="55.763260,343.665100 54.071228,336.023956 60.860954,337.726776"
+       stroke="none"
+       id="polyline189" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_78"
+       points="108.397156,765.442444 101.083656,762.656250 106.237999,757.919922"
+       stroke="none"
+       id="polyline190" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_75 id_80"
+       points="-520.639465,711.784241 -516.738708,704.999390 -512.871155,710.833984"
+       stroke="none"
+       id="polyline191" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_1 id_81"
+       points="-554.165955,233.244614 -549.936890,226.659378 -546.360352,232.676682"
+       stroke="none"
+       id="polyline192"
+       transform="translate(24.814707,-8.9332946)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_81"
+       points="-554.213684,258.360779 -546.410278,258.958405 -550.009766,264.962067"
+       stroke="none"
+       id="polyline193" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_82"
+       points="-254.770370,682.465210 -252.872833,674.872559 -247.557678,679.427612"
+       stroke="none"
+       id="polyline194" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_81 id_83"
+       points="-756.135498,167.368378 -748.320984,166.940201 -751.104309,173.363083"
+       stroke="none"
+       id="polyline195"
+       transform="translate(6.948118,4.4666473)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_19 id_89"
+       points="281.059845,-840.098572 285.129913,-833.413879 278.154144,-832.831726"
+       stroke="none"
+       id="polyline196" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_82 id_93"
+       points="-380.467133,790.481262 -377.250702,783.346497 -372.829498,788.773499"
+       stroke="none"
+       id="polyline197" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_8 id_103"
+       points="-14.702283,805.337769 -20.353148,799.923157 -13.761133,797.568298"
+       stroke="none"
+       id="polyline198" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_104"
+       points="-742.837219,-535.808838 -737.767761,-541.771362 -735.025574,-535.330811"
+       stroke="none"
+       id="polyline199" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_4 id_105"
+       points="648.780579,-432.044922 643.279785,-426.477966 641.026489,-433.105408"
+       stroke="none"
+       id="polyline200"
+       transform="translate(-24.2314,11.183723)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_6 id_107"
+       points="654.861938,199.825455 647.873718,196.301956 653.487854,192.120804"
+       stroke="none"
+       id="polyline201" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_7 id_107"
+       points="667.319946,243.877884 670.184387,251.161087 663.212097,250.539352"
+       stroke="none"
+       id="polyline202" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_6 id_108"
+       points="640.753601,-65.652740 637.689636,-58.451180 633.153992,-63.782921"
+       stroke="none"
+       id="polyline203" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_109"
+       points="568.101013,-153.564148 560.467957,-155.292496 564.903870,-160.707565"
+       stroke="none"
+       id="polyline204" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_76 id_112"
+       points="-56.570362,-599.911926 -52.774368,-593.067932 -59.767967,-592.768738"
+       stroke="none"
+       id="polyline205" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_113"
+       points="538.375366,-704.971741 538.377747,-697.145447 532.115784,-700.274109"
+       stroke="none"
+       id="polyline206" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_0 id_114"
+       points="-764.967529,-727.517273 -757.221130,-728.632446 -759.427551,-721.989258"
+       stroke="none"
+       id="polyline207" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_21 id_115"
+       points="-735.648682,-319.333130 -727.825623,-319.556763 -730.775940,-313.208862"
+       stroke="none"
+       id="polyline208"
+       transform="translate(11.414766,4.9629414)" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_81 id_116"
+       points="-701.901062,90.739136 -694.761536,93.945007 -700.182068,98.374252"
+       stroke="none"
+       id="polyline209" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_116 id_117"
+       points="-786.323669,7.955574 -778.809326,10.143083 -783.565063,15.279525"
+       stroke="none"
+       id="polyline210" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_118"
+       points="628.945679,-195.734451 621.119812,-195.655838 624.187195,-201.947952"
+       stroke="none"
+       id="polyline211" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_121"
+       points="398.882660,-617.561401 401.194427,-610.084412 394.288116,-611.225769"
+       stroke="none"
+       id="polyline212" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_6 id_122"
+       points="536.932861,410.555878 533.276001,403.636505 540.274170,403.478790"
+       stroke="none"
+       id="polyline213" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_86 id_122"
+       points="519.357788,451.531738 516.533142,458.830475 511.824005,453.651337"
+       stroke="none"
+       id="polyline214" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_121 id_123"
+       points="422.612457,-786.615173 425.135681,-779.206787 418.199707,-780.151611"
+       stroke="none"
+       id="polyline215" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_3 id_125"
+       points="376.108124,1.330198 377.440430,9.042200 370.737915,7.023237"
+       stroke="none"
+       id="polyline216" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_125"
+       points="380.676605,-46.500957 376.481201,-53.107639 383.444702,-53.821323"
+       stroke="none"
+       id="polyline217" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_127"
+       points="638.755676,-529.790710 634.991882,-522.929016 631.007996,-528.684753"
+       stroke="none"
+       id="polyline218" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1.0"
+       class="id_4 id_128"
+       points="614.672974,-611.440918 612.435608,-603.941345 607.330872,-608.731018"
+       stroke="none"
+       id="polyline219" />
+    <polyline
+       fill="#000000"
+       fill-opacity="1"
+       class="id_8 id_57"
+       points="-364.800903,247.985748 -357.500244,250.805344 -362.676208,255.518051"
+       stroke="none"
+       id="polyline180-6"
+       transform="rotate(-28.261624,69.930835,255.75219)" />
+  </g>
+  <g
+     id="node-labels-outline">
+    <text
+       stroke-linecap="round"
+       font-size="51"
+       x="-499.5933"
+       y="-629.3792"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_0"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="23.90625px"
+       id="text219">&#10;            QFT&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="40"
+       x="195.15688"
+       y="-204.2993"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_1"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="18.75px"
+       id="text220">&#10;            QPE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-753.33826"
+       y="-631.9037"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_2"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text221">&#10;            Shor&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="27"
+       x="319.83456"
+       y="192.97797"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_3"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="12.65625px"
+       id="text222">&#10;            HHL&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="46"
+       x="351.52075"
+       y="-321.96246"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_4"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="21.5625px"
+       id="text223">&#10;            VQE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="51"
+       x="-161.80989"
+       y="-90.38152"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_5"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="23.90625px"
+       id="text224">&#10;            AA&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="22"
+       x="528.3552"
+       y="34.27713"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_6"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="10.3125px"
+       id="text225">&#10;            QITE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="660.1677"
+       y="327.22244"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_7"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text226">&#10;            Q. Lanczos&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="54"
+       x="-116.31075"
+       y="530.90015"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_8"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="25.3125px"
+       id="text227">&#10;            Grover&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-352.58368"
+       y="-739.6892"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_9"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text228">&#10;            Simon's algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-448.12802"
+       y="-872.0597"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_10"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text229">&#10;            Hallgren's algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-302.62494"
+       y="-374.59674"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_11"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text230">&#10;            Hash Collision and Claws&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-657.8466"
+       y="-468.8355"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_12"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text231">&#10;            Q. Polynomial Interpo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-685.93445"
+       y="-822.1207"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_13"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text232">&#10;            Hidden Shift algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-408.35275"
+       y="-444.64618"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_14"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text233">&#10;            Hidden Shift algo. (S.+K.)&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-335.5832"
+       y="-854.8814"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_15"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text234">&#10;            Watrous' algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-259.7607"
+       y="-568.3282"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_16"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text235">&#10;            Exact hidden subgroup algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-291.55594"
+       y="-674.9713"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_17"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text236">&#10;            DHSP&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="22"
+       x="21.06638"
+       y="-897.33575"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_18"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="10.3125px"
+       id="text237">&#10;            QSVT&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="291.1107"
+       y="-715.9112"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_19"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text238">&#10;            Varia. Q. State Diag.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="19"
+       x="-601.1786"
+       y="-253.11047"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_21"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="8.90625px"
+       id="text239">&#10;            QLSA Childs&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-15.124149"
+       y="-157.18538"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_22"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text240">&#10;            QLSA Dense Matrix&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="163.51064"
+       y="-601.6891"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_23"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text241">&#10;            Varia. Q. PageRank&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="19"
+       x="-515.2619"
+       y="536.6511"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_24"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="8.90625px"
+       id="text242">&#10;            Block-encoding HS&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-632.5921"
+       y="378.00418"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_25"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text243">&#10;            QRAM LES algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-626.666"
+       y="621.832"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_26"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text244">&#10;            Q. SDP-solver(A.-K. )&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-747.86426"
+       y="474.71014"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_27"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text245">&#10;            Q. Interior Point Method&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-667.4462"
+       y="-107.741234"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_28"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text246">&#10;            Q. simplex method&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="649.3862"
+       y="-268.83005"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_29"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text247">&#10;            Vria. Q. SDP&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-733.56165"
+       y="348.83765"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_30"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text248">&#10;            Q. algo. for CVaR&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-733.7919"
+       y="734.3096"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_31"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text249">&#10;            Q. zero-sum game algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-800.5403"
+       y="566.04803"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_32"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text250">&#10;            Q. martingale asset pricing&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-134.90439"
+       y="721.56134"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_33"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text251">&#10;            Q. k-means algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="239.21843"
+       y="636.4232"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_34"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text252">&#10;            Q. k-medians algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-435.8768"
+       y="442.66733"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_35"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text253">&#10;            Q. nearest-neighbor classification&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="124.78328"
+       y="495.087"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_37"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text254">&#10;            QSVM&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-193.31285"
+       y="868.42914"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_39"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text255">&#10;            Q. Distance Classifier&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="165.56561"
+       y="312.12076"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_40"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text256">&#10;            Q. Data Fitting&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-486.0074"
+       y="68.1694"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_41"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text257">&#10;            Q. Deep Learning&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="336.6174"
+       y="374.1474"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_42"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text258">&#10;            Q. Principal Component Analysis&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="199.34528"
+       y="121.68217"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_43"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text259">&#10;            Q. Linear regression&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-585.51044"
+       y="-872.91754"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_44"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text260">&#10;            Q. Pattern Maching&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-20.74192"
+       y="-252.64627"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_45"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text261">&#10;            Q. algo. for Recomm. Sys.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-43.597237"
+       y="208.61928"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_46"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text262">&#10;            Q. topological data analysis&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-156.29333"
+       y="-774.02106"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_47"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text263">&#10;            Q. algo. for persistent Betti #&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="304.67746"
+       y="-149.17343"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_49"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text264">&#10;            Bool. circuit evaluation&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-685.45917"
+       y="-383.6277"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_50"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text265">&#10;            St-connectivity in graphs&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-288.413"
+       y="166.26578"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_51"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text266">&#10;            Black-Box HS&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="431.73462"
+       y="281.3161"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_52"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text267">&#10;            Simu. of Sparse Hamil.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="77.053795"
+       y="-500.10898"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_53"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text268">&#10;            QW-HS by Childs&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="11.883062"
+       y="-721.8539"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_54"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text269">&#10;            Q. Signal Processing&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-535.4685"
+       y="-7.1453733"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_55"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text270">&#10;            LCU&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-478.76465"
+       y="-124.353806"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_56"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text271">&#10;            LCU and QW-HS&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-381.29535"
+       y="232.46185"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_57"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text272">&#10;            Adiabatic Search&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="163.78897"
+       y="690.65576"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_58"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text273">&#10;            QA-QW noise-robust search&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="165.57799"
+       y="-744.61646"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_65"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text274">&#10;            Adiabatic QLSP&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="265.41296"
+       y="-525.7991"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_66"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text275">&#10;            QAOA&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-384.46506"
+       y="625.2726"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_75"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text276">&#10;            Durr&amp;Høyer minimization&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-52.004456"
+       y="-489.42868"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_76"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text277">&#10;            Q. Counting&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="49.80335"
+       y="370.17377"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_77"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text278">&#10;            QW Search&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="124.974304"
+       y="786.76953"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_78"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text279">&#10;            Q. PageRank (QW&amp;Grover)&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-541.06036"
+       y="728.6077"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_80"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text280">&#10;            Q. string matching&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="32"
+       x="-575.2265"
+       y="252.03613"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_81"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="15.0px"
+       id="text281">&#10;            QAE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-270.71326"
+       y="704.205"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_82"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text282">&#10;            Iterative QAE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-778.6156"
+       y="160.37158"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_83"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text283">&#10;            Finance Monte Carlo via QAE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="27"
+       x="396.6592"
+       y="568.0944"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_86"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="12.65625px"
+       id="text284">&#10;            SWAP test&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="279.02222"
+       y="-861.22675"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_89"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text285">&#10;            Varia. Q. Fidelity Estimation&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-399.46176"
+       y="809.24133"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_93"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text286">&#10;            GBS Dense k-subgraph&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-6.4602795"
+       y="831.6967"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_103"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text287">&#10;            Q. algo. for Feynman loop integrals&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-765.37897"
+       y="-522.9241"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_104"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text288">&#10;            Q. simu. for eff. field theories for collider physics&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="671.9766"
+       y="-436.64432"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_105"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text289">&#10;            Q. simu. of deuteron binding energy&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="669.49603"
+       y="222.76166"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_107"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text290">&#10;            Continu. var. QITE for interacting scalar qft&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="659.4147"
+       y="-78.24072"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_108"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text291">&#10;            QITE for Feynman-Kac PDE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="587.0538"
+       y="-134.75165"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_109"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text292">&#10;            Varia.l Q. algo. for parton distribution&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-57.617546"
+       y="-621.1026"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_112"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text293">&#10;            Q. algo. for mathched filtering&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="549.3255"
+       y="-723.60156"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_113"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text294">&#10;            Varia.l Q. algo. for Possion equation&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-788.2186"
+       y="-731.9528"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_114"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text295">&#10;            Q. simu. of hydrodynamics via Madelung transformation&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-757.8663"
+       y="-326.37228"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_115"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text296">&#10;            Efficient Q. algo. for dissipative nonlinear DEs&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="-717.40344"
+       y="75.523926"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_116"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text297">&#10;            Kacewicz’ Q. ODE algo.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="-804.3012"
+       y="-5.4025292"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_117"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text298">&#10;            Q. algo. for Navier-Stokes&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="650.9681"
+       y="-182.25377"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_118"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text299">&#10;            Q. Hartree-Fock variational method&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="16"
+       x="402.87747"
+       y="-638.02386"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_121"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="7.5px"
+       id="text300">&#10;            Subspace search VQE&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="537.48486"
+       y="438.3366"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_122"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text301">&#10;            Varia. Q. algo. for hamilt. spectra (excited state)&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="425.9192"
+       y="-807.60406"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_123"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text302">&#10;            Varia. Q. algo. For Green funtions&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="383.1745"
+       y="-18.841677"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_125"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text303">&#10;            Q. Density functional theory method&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="658.9009"
+       y="-540.4485"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_127"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text304">&#10;            Varia. protein folding simu.&#10;        </text>
+    <text
+       stroke-linecap="round"
+       font-size="14"
+       x="631.437"
+       y="-626.0206"
+       fill="#000000"
+       stroke-linejoin="round"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_128"
+       stroke="#ffffff"
+       stroke-opacity="1.0"
+       stroke-width="6.5625px"
+       id="text305">&#10;            Q. algo. for alchemical optimization&#10;        </text>
+  </g>
+  <g
+     id="node-labels">
+    <text
+       font-size="51"
+       x="-499.5933"
+       y="-629.3792"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_0"
+       id="text306">&#10;            QFT&#10;        </text>
+    <text
+       font-size="40"
+       x="195.15688"
+       y="-204.2993"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_1"
+       id="text307">&#10;            QPE&#10;        </text>
+    <text
+       font-size="14"
+       x="-753.33826"
+       y="-631.9037"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_2"
+       id="text308">&#10;            Shor&#10;        </text>
+    <text
+       font-size="27"
+       x="319.83456"
+       y="192.97797"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_3"
+       id="text309">&#10;            HHL&#10;        </text>
+    <text
+       font-size="46"
+       x="351.52075"
+       y="-321.96246"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_4"
+       id="text310">&#10;            VQE&#10;        </text>
+    <text
+       font-size="51"
+       x="-161.80989"
+       y="-90.38152"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_5"
+       id="text311">&#10;            AA&#10;        </text>
+    <text
+       font-size="22"
+       x="528.3552"
+       y="34.27713"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_6"
+       id="text312">&#10;            QITE&#10;        </text>
+    <text
+       font-size="16"
+       x="660.1677"
+       y="327.22244"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_7"
+       id="text313">&#10;            Q. Lanczos&#10;        </text>
+    <text
+       font-size="54"
+       x="-116.31075"
+       y="530.90015"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_8"
+       id="text314">&#10;            Grover&#10;        </text>
+    <text
+       font-size="14"
+       x="-352.58368"
+       y="-739.6892"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_9"
+       id="text315">&#10;            Simon's algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-448.12802"
+       y="-872.0597"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_10"
+       id="text316">&#10;            Hallgren's algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-302.62494"
+       y="-374.59674"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_11"
+       id="text317">&#10;            Hash Collision and Claws&#10;        </text>
+    <text
+       font-size="14"
+       x="-657.8466"
+       y="-468.8355"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_12"
+       id="text318">&#10;            Q. Polynomial Interpo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-685.93445"
+       y="-822.1207"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_13"
+       id="text319">&#10;            Hidden Shift algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-408.35275"
+       y="-444.64618"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_14"
+       id="text320">&#10;            Hidden Shift algo. (S.+K.)&#10;        </text>
+    <text
+       font-size="14"
+       x="-335.5832"
+       y="-854.8814"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_15"
+       id="text321">&#10;            Watrous' algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-259.7607"
+       y="-568.3282"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_16"
+       id="text322">&#10;            Exact hidden subgroup algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-291.55594"
+       y="-674.9713"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_17"
+       id="text323">&#10;            DHSP&#10;        </text>
+    <text
+       font-size="22"
+       x="21.06638"
+       y="-897.33575"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_18"
+       id="text324">&#10;            QSVT&#10;        </text>
+    <text
+       font-size="16"
+       x="291.1107"
+       y="-715.9112"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_19"
+       id="text325">&#10;            Varia. Q. State Diag.&#10;        </text>
+    <text
+       font-size="19"
+       x="-601.1786"
+       y="-253.11047"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_21"
+       id="text326">&#10;            QLSA Childs&#10;        </text>
+    <text
+       font-size="14"
+       x="-15.124149"
+       y="-157.18538"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_22"
+       id="text327">&#10;            QLSA Dense Matrix&#10;        </text>
+    <text
+       font-size="14"
+       x="163.51064"
+       y="-601.6891"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_23"
+       id="text328">&#10;            Varia. Q. PageRank&#10;        </text>
+    <text
+       font-size="19"
+       x="-515.2619"
+       y="536.6511"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_24"
+       id="text329">&#10;            Block-encoding HS&#10;        </text>
+    <text
+       font-size="16"
+       x="-632.5921"
+       y="378.00418"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_25"
+       id="text330">&#10;            QRAM LES algo.&#10;        </text>
+    <text
+       font-size="16"
+       x="-626.666"
+       y="621.832"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_26"
+       id="text331">&#10;            Q. SDP-solver(A.-K. )&#10;        </text>
+    <text
+       font-size="14"
+       x="-747.86426"
+       y="474.71014"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_27"
+       id="text332">&#10;            Q. Interior Point Method&#10;        </text>
+    <text
+       font-size="14"
+       x="-667.4462"
+       y="-107.741234"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_28"
+       id="text333">&#10;            Q. simplex method&#10;        </text>
+    <text
+       font-size="14"
+       x="649.3862"
+       y="-268.83005"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_29"
+       id="text334">&#10;            Vria. Q. SDP&#10;        </text>
+    <text
+       font-size="14"
+       x="-733.56165"
+       y="348.83765"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_30"
+       id="text335">&#10;            Q. algo. for CVaR&#10;        </text>
+    <text
+       font-size="16"
+       x="-733.7919"
+       y="734.3096"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_31"
+       id="text336">&#10;            Q. zero-sum game algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-800.5403"
+       y="566.04803"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_32"
+       id="text337">&#10;            Q. martingale asset pricing&#10;        </text>
+    <text
+       font-size="14"
+       x="-134.90439"
+       y="721.56134"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_33"
+       id="text338">&#10;            Q. k-means algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="239.21843"
+       y="636.4232"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_34"
+       id="text339">&#10;            Q. k-medians algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-435.8768"
+       y="442.66733"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_35"
+       id="text340">&#10;            Q. nearest-neighbor classification&#10;        </text>
+    <text
+       font-size="14"
+       x="124.78328"
+       y="495.087"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_37"
+       id="text341">&#10;            QSVM&#10;        </text>
+    <text
+       font-size="16"
+       x="-193.31285"
+       y="868.42914"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_39"
+       id="text342">&#10;            Q. Distance Classifier&#10;        </text>
+    <text
+       font-size="14"
+       x="165.56561"
+       y="312.12076"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_40"
+       id="text343">&#10;            Q. Data Fitting&#10;        </text>
+    <text
+       font-size="14"
+       x="-486.0074"
+       y="68.1694"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_41"
+       id="text344">&#10;            Q. Deep Learning&#10;        </text>
+    <text
+       font-size="14"
+       x="336.6174"
+       y="374.1474"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_42"
+       id="text345">&#10;            Q. Principal Component Analysis&#10;        </text>
+    <text
+       font-size="14"
+       x="199.34528"
+       y="121.68217"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_43"
+       id="text346">&#10;            Q. Linear regression&#10;        </text>
+    <text
+       font-size="14"
+       x="-585.51044"
+       y="-872.91754"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_44"
+       id="text347">&#10;            Q. Pattern Maching&#10;        </text>
+    <text
+       font-size="14"
+       x="-20.74192"
+       y="-252.64627"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_45"
+       id="text348">&#10;            Q. algo. for Recomm. Sys.&#10;        </text>
+    <text
+       font-size="14"
+       x="-43.597237"
+       y="208.61928"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_46"
+       id="text349">&#10;            Q. topological data analysis&#10;        </text>
+    <text
+       font-size="14"
+       x="-156.29333"
+       y="-774.02106"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_47"
+       id="text350">&#10;            Q. algo. for persistent Betti #&#10;        </text>
+    <text
+       font-size="14"
+       x="304.67746"
+       y="-149.17343"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_49"
+       id="text351">&#10;            Bool. circuit evaluation&#10;        </text>
+    <text
+       font-size="14"
+       x="-685.45917"
+       y="-383.6277"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_50"
+       id="text352">&#10;            St-connectivity in graphs&#10;        </text>
+    <text
+       font-size="16"
+       x="-288.413"
+       y="166.26578"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_51"
+       id="text353">&#10;            Black-Box HS&#10;        </text>
+    <text
+       font-size="16"
+       x="431.73462"
+       y="281.3161"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_52"
+       id="text354">&#10;            Simu. of Sparse Hamil.&#10;        </text>
+    <text
+       font-size="16"
+       x="77.053795"
+       y="-500.10898"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_53"
+       id="text355">&#10;            QW-HS by Childs&#10;        </text>
+    <text
+       font-size="16"
+       x="11.883062"
+       y="-721.8539"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_54"
+       id="text356">&#10;            Q. Signal Processing&#10;        </text>
+    <text
+       font-size="16"
+       x="-535.4685"
+       y="-7.1453733"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_55"
+       id="text357">&#10;            LCU&#10;        </text>
+    <text
+       font-size="16"
+       x="-478.76465"
+       y="-124.353806"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_56"
+       id="text358">&#10;            LCU and QW-HS&#10;        </text>
+    <text
+       font-size="14"
+       x="-381.29535"
+       y="232.46185"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_57"
+       id="text359">&#10;            Adiabatic Search&#10;        </text>
+    <text
+       font-size="14"
+       x="163.78897"
+       y="690.65576"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_58"
+       id="text360">&#10;            QA-QW noise-robust search&#10;        </text>
+    <text
+       font-size="14"
+       x="165.57799"
+       y="-744.61646"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_65"
+       id="text361">&#10;            Adiabatic QLSP&#10;        </text>
+    <text
+       font-size="16"
+       x="265.41296"
+       y="-525.7991"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_66"
+       id="text362">&#10;            QAOA&#10;        </text>
+    <text
+       font-size="16"
+       x="-384.46506"
+       y="625.2726"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_75"
+       id="text363">&#10;            Durr&amp;Høyer minimization&#10;        </text>
+    <text
+       font-size="16"
+       x="-52.004456"
+       y="-489.42868"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_76"
+       id="text364">&#10;            Q. Counting&#10;        </text>
+    <text
+       font-size="14"
+       x="49.80335"
+       y="370.17377"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_77"
+       id="text365">&#10;            QW Search&#10;        </text>
+    <text
+       font-size="14"
+       x="124.974304"
+       y="786.76953"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_78"
+       id="text366">&#10;            Q. PageRank (QW&amp;Grover)&#10;        </text>
+    <text
+       font-size="14"
+       x="-541.06036"
+       y="728.6077"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_80"
+       id="text367">&#10;            Q. string matching&#10;        </text>
+    <text
+       font-size="32"
+       x="-575.2265"
+       y="252.03613"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_81"
+       id="text368">&#10;            QAE&#10;        </text>
+    <text
+       font-size="16"
+       x="-270.71326"
+       y="704.205"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_82"
+       id="text369">&#10;            Iterative QAE&#10;        </text>
+    <text
+       font-size="14"
+       x="-778.6156"
+       y="160.37158"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_83"
+       id="text370">&#10;            Finance Monte Carlo via QAE&#10;        </text>
+    <text
+       font-size="27"
+       x="396.6592"
+       y="568.0944"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_86"
+       id="text371">&#10;            SWAP test&#10;        </text>
+    <text
+       font-size="14"
+       x="279.02222"
+       y="-861.22675"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_89"
+       id="text372">&#10;            Varia. Q. Fidelity Estimation&#10;        </text>
+    <text
+       font-size="14"
+       x="-399.46176"
+       y="809.24133"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_93"
+       id="text373">&#10;            GBS Dense k-subgraph&#10;        </text>
+    <text
+       font-size="14"
+       x="-6.4602795"
+       y="831.6967"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_103"
+       id="text374">&#10;            Q. algo. for Feynman loop integrals&#10;        </text>
+    <text
+       font-size="14"
+       x="-765.37897"
+       y="-522.9241"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_104"
+       id="text375">&#10;            Q. simu. for eff. field theories for collider physics&#10;        </text>
+    <text
+       font-size="14"
+       x="671.9766"
+       y="-436.64432"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_105"
+       id="text376">&#10;            Q. simu. of deuteron binding energy&#10;        </text>
+    <text
+       font-size="14"
+       x="669.49603"
+       y="222.76166"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_107"
+       id="text377">&#10;            Continu. var. QITE for interacting scalar qft&#10;        </text>
+    <text
+       font-size="14"
+       x="659.4147"
+       y="-78.24072"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_108"
+       id="text378">&#10;            QITE for Feynman-Kac PDE&#10;        </text>
+    <text
+       font-size="14"
+       x="587.0538"
+       y="-134.75165"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_109"
+       id="text379">&#10;            Varia.l Q. algo. for parton distribution&#10;        </text>
+    <text
+       font-size="14"
+       x="-57.617546"
+       y="-621.1026"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_112"
+       id="text380">&#10;            Q. algo. for mathched filtering&#10;        </text>
+    <text
+       font-size="14"
+       x="549.3255"
+       y="-723.60156"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_113"
+       id="text381">&#10;            Varia.l Q. algo. for Possion equation&#10;        </text>
+    <text
+       font-size="14"
+       x="-788.2186"
+       y="-731.9528"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_114"
+       id="text382">&#10;            Q. simu. of hydrodynamics via Madelung transformation&#10;        </text>
+    <text
+       font-size="14"
+       x="-757.8663"
+       y="-326.37228"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_115"
+       id="text383">&#10;            Efficient Q. algo. for dissipative nonlinear DEs&#10;        </text>
+    <text
+       font-size="16"
+       x="-717.40344"
+       y="75.523926"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_116"
+       id="text384">&#10;            Kacewicz’ Q. ODE algo.&#10;        </text>
+    <text
+       font-size="14"
+       x="-804.3012"
+       y="-5.4025292"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_117"
+       id="text385">&#10;            Q. algo. for Navier-Stokes&#10;        </text>
+    <text
+       font-size="14"
+       x="650.9681"
+       y="-182.25377"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_118"
+       id="text386">&#10;            Q. Hartree-Fock variational method&#10;        </text>
+    <text
+       font-size="16"
+       x="402.87747"
+       y="-638.02386"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_121"
+       id="text387">&#10;            Subspace search VQE&#10;        </text>
+    <text
+       font-size="14"
+       x="537.48486"
+       y="438.3366"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_122"
+       id="text388">&#10;            Varia. Q. algo. for hamilt. spectra (excited state)&#10;        </text>
+    <text
+       font-size="14"
+       x="425.9192"
+       y="-807.60406"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_123"
+       id="text389">&#10;            Varia. Q. algo. For Green funtions&#10;        </text>
+    <text
+       font-size="14"
+       x="383.1745"
+       y="-18.841677"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_125"
+       id="text390">&#10;            Q. Density functional theory method&#10;        </text>
+    <text
+       font-size="14"
+       x="658.9009"
+       y="-540.4485"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_127"
+       id="text391">&#10;            Varia. protein folding simu.&#10;        </text>
+    <text
+       font-size="14"
+       x="631.437"
+       y="-626.0206"
+       fill="#000000"
+       style="text-anchor: middle; dominant-baseline: central;"
+       font-family="Arial"
+       class="id_128"
+       id="text392">&#10;            Q. algo. for alchemical optimization&#10;        </text>
+  </g>
+  <polyline
+     fill="#000000"
+     fill-opacity="1"
+     class="id_1 id_49"
+     points="283.225494,-163.554626 275.405670,-163.871429 278.787018,-170.000580"
+     stroke="none"
+     id="polyline172-6"
+     transform="translate(-125.37051,-69.096467)" />
+  <polyline
+     fill="#000000"
+     fill-opacity="1"
+     class="id_5 id_12"
+     points="-638.257751,-457.407654 -630.558838,-456.001801 -634.763062,-450.404999"
+     stroke="none"
+     id="polyline120-6"
+     transform="translate(101.85138,212.23359)" />
+</svg>

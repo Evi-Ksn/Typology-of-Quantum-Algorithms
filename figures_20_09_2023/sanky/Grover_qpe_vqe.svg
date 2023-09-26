@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg64"
+   sodipodi:docname="Grover_qpe_vqe.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="Grover_qpe_vqe.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs64" />
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.02"
+     inkscape:cx="402.45098"
+     inkscape:cy="300"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg64" />
+  <rect
+     width="805"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="backgorund" />
+  <g
+     transform="translate(30,15)"
+     id="visualization">
+    <g
+       id="g14">
+      <rect
+         x="0"
+         y="7.5"
+         height="142.9787234042553"
+         width="5"
+         fill="black"
+         id="rect1">
+        <title
+           id="title1">VQE: 24</title>
+      </rect>
+      <rect
+         x="370"
+         y="0"
+         height="178.72340425531914"
+         width="5"
+         fill="black"
+         id="rect2">
+        <title
+           id="title2">Dynamical system: 30</title>
+      </rect>
+      <rect
+         x="370"
+         y="183.72340425531914"
+         height="131.06382978723403"
+         width="5"
+         fill="black"
+         id="rect3">
+        <title
+           id="title3">Linear algebra: 22</title>
+      </rect>
+      <rect
+         x="370"
+         y="319.78723404255317"
+         height="53.61702127659572"
+         width="5"
+         fill="black"
+         id="rect4">
+        <title
+           id="title4">Optimization: 9</title>
+      </rect>
+      <rect
+         x="370"
+         y="378.4042553191489"
+         height="101.27659574468083"
+         width="5"
+         fill="black"
+         id="rect5">
+        <title
+           id="title5">Combinatorial: 17</title>
+      </rect>
+      <rect
+         x="0"
+         y="155.4787234042553"
+         height="244.25531914893614"
+         width="5"
+         fill="black"
+         id="rect6">
+        <title
+           id="title6">QPE: 41</title>
+      </rect>
+      <rect
+         x="370"
+         y="484.6808510638297"
+         height="89.36170212765961"
+         width="5"
+         fill="black"
+         id="rect7">
+        <title
+           id="title7">Statistics: 15</title>
+      </rect>
+      <rect
+         x="0"
+         y="404.73404255319144"
+         height="172.76595744680856"
+         width="5"
+         fill="black"
+         id="rect8">
+        <title
+           id="title8">Grover: 29</title>
+      </rect>
+      <rect
+         x="370"
+         y="579.0425531914893"
+         height="5.957446808510667"
+         width="5"
+         fill="black"
+         id="rect9">
+        <title
+           id="title9">Hidden subgroup problem: 1</title>
+      </rect>
+      <rect
+         x="740"
+         y="2.500000000000057"
+         height="95.31914893617021"
+         width="5"
+         fill="black"
+         id="rect10">
+        <title
+           id="title10">First-principle quantum simulation: 16</title>
+      </rect>
+      <rect
+         x="740"
+         y="102.81914893617027"
+         height="184.68085106382978"
+         width="5"
+         fill="black"
+         id="rect11">
+        <title
+           id="title11">Machine learning &amp; Data science: 31</title>
+      </rect>
+      <rect
+         x="740"
+         y="292.50000000000006"
+         height="184.68085106382978"
+         width="5"
+         fill="black"
+         id="rect12">
+        <title
+           id="title12">Operational research: 31</title>
+      </rect>
+      <rect
+         x="740"
+         y="482.18085106382983"
+         height="83.40425531914883"
+         width="5"
+         fill="black"
+         id="rect13">
+        <title
+           id="title13">Classical scientific computing: 14</title>
+      </rect>
+      <rect
+         x="740"
+         y="570.5851063829787"
+         height="11.914893617021221"
+         width="5"
+         fill="black"
+         id="rect14">
+        <title
+           id="title14">Cryptanalysis: 2</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="1"
+       id="g48">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g15">
+        <path
+           d="M5,55.159574468085104C187.5,55.159574468085104,187.5,47.659574468085104,370,47.659574468085104"
+           stroke="#2ca02c"
+           stroke-width="95.31914893617021"
+           id="path14" />
+        <title
+           id="title15">VQE → Dynamical system: 16</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g16">
+        <path
+           d="M5,117.7127659574468C187.5,117.7127659574468,187.5,198.61702127659572,370,198.61702127659572"
+           stroke="#2ca02c"
+           stroke-width="29.78723404255319"
+           id="path15" />
+        <title
+           id="title16">VQE → Linear algebra: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g17">
+        <path
+           d="M5,135.5851063829787C187.5,135.5851063829787,187.5,322.7659574468085,370,322.7659574468085"
+           stroke="#2ca02c"
+           stroke-width="5.957446808510638"
+           id="path16" />
+        <title
+           id="title17">VQE → Optimization: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g18">
+        <path
+           d="M5,144.52127659574467C187.5,144.52127659574467,187.5,384.3617021276595,370,384.3617021276595"
+           stroke="#2ca02c"
+           stroke-width="11.914893617021276"
+           id="path17" />
+        <title
+           id="title18">VQE → Combinatorial: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g19">
+        <path
+           d="M5,241.86170212765956C187.5,241.86170212765956,187.5,252.23404255319147,370,252.23404255319147"
+           stroke="#ff7f0e"
+           stroke-width="77.44680851063829"
+           id="path18" />
+        <title
+           id="title19">QPE → Linear algebra: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g20">
+        <path
+           d="M5,375.9042553191489C187.5,375.9042553191489,187.5,508.5106382978723,370,508.5106382978723"
+           stroke="#ff7f0e"
+           stroke-width="47.659574468085104"
+           id="path19" />
+        <title
+           id="title20">QPE → Statistics: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g21">
+        <path
+           d="M5,331.2234042553191C187.5,331.2234042553191,187.5,411.1702127659574,370,411.1702127659574"
+           stroke="#ff7f0e"
+           stroke-width="41.702127659574465"
+           id="path20" />
+        <title
+           id="title21">QPE → Combinatorial: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g22">
+        <path
+           d="M5,295.47872340425533C187.5,295.47872340425533,187.5,340.6382978723404,370,340.6382978723404"
+           stroke="#ff7f0e"
+           stroke-width="29.78723404255319"
+           id="path21" />
+        <title
+           id="title22">QPE → Optimization: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g23">
+        <path
+           d="M5,179.30851063829786C187.5,179.30851063829786,187.5,119.14893617021276,370,119.14893617021276"
+           stroke="#ff7f0e"
+           stroke-width="47.659574468085104"
+           id="path22" />
+        <title
+           id="title23">QPE → Dynamical system: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g24">
+        <path
+           d="M5,574.5212765957446C187.5,574.5212765957446,187.5,582.0212765957447,370,582.0212765957447"
+           stroke="#1f77b4"
+           stroke-width="5.957446808510638"
+           id="path23" />
+        <title
+           id="title24">Grover → Hidden subgroup problem: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g25">
+        <path
+           d="M5,452.39361702127655C187.5,452.39361702127655,187.5,302.8723404255319,370,302.8723404255319"
+           stroke="#1f77b4"
+           stroke-width="23.829787234042552"
+           id="path24" />
+        <title
+           id="title25">Grover → Linear algebra: 4</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g26">
+        <path
+           d="M5,506.0106382978723C187.5,506.0106382978723,187.5,455.85106382978717,370,455.85106382978717"
+           stroke="#1f77b4"
+           stroke-width="47.659574468085104"
+           id="path25" />
+        <title
+           id="title26">Grover → Combinatorial: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g27">
+        <path
+           d="M5,473.2446808510638C187.5,473.2446808510638,187.5,364.4680851063829,370,364.4680851063829"
+           stroke="#1f77b4"
+           stroke-width="17.872340425531913"
+           id="path26" />
+        <title
+           id="title27">Grover → Optimization: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g28">
+        <path
+           d="M5,422.60638297872333C187.5,422.60638297872333,187.5,160.85106382978722,370,160.85106382978722"
+           stroke="#1f77b4"
+           stroke-width="35.744680851063826"
+           id="path27" />
+        <title
+           id="title28">Grover → Dynamical system: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g29">
+        <path
+           d="M5,550.691489361702C187.5,550.691489361702,187.5,553.191489361702,370,553.191489361702"
+           stroke="#1f77b4"
+           stroke-width="41.702127659574465"
+           id="path28" />
+        <title
+           id="title29">Grover → Statistics: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g30">
+        <path
+           d="M375,41.702127659574465C557.5,41.702127659574465,557.5,44.20212765957452,740,44.20212765957452"
+           stroke="#9467bd"
+           stroke-width="83.40425531914893"
+           id="path29" />
+        <title
+           id="title30">Dynamical system → First-principle quantum simulation: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g31">
+        <path
+           d="M375,189.68085106382978C557.5,189.68085106382978,557.5,91.86170212765963,740,91.86170212765963"
+           stroke="#e377c2"
+           stroke-width="11.914893617021276"
+           id="path30" />
+        <title
+           id="title31">Linear algebra → First-principle quantum simulation: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g32">
+        <path
+           d="M375,222.44680851063828C557.5,222.44680851063828,557.5,147.50000000000006,740,147.50000000000006"
+           stroke="#e377c2"
+           stroke-width="53.61702127659574"
+           id="path31" />
+        <title
+           id="title32">Linear algebra → Machine learning &amp; Data science: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g33">
+        <path
+           d="M375,273.0851063829787C557.5,273.0851063829787,557.5,346.1170212765958,740,346.1170212765958"
+           stroke="#e377c2"
+           stroke-width="47.659574468085104"
+           id="path32" />
+        <title
+           id="title33">Linear algebra → Operational research: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g34">
+        <path
+           d="M375,116.17021276595744C557.5,116.17021276595744,557.5,307.39361702127667,740,307.39361702127667"
+           stroke="#9467bd"
+           stroke-width="29.78723404255319"
+           id="path33" />
+        <title
+           id="title34">Dynamical system → Operational research: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g35">
+        <path
+           d="M375,358.51063829787233C557.5,358.51063829787233,557.5,384.84042553191495,740,384.84042553191495"
+           stroke="#b8e986"
+           stroke-width="29.78723404255319"
+           id="path34" />
+        <title
+           id="title35">Optimization → Operational research: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g36">
+        <path
+           d="M375,437.9787234042553C557.5,437.9787234042553,557.5,423.56382978723406,740,423.56382978723406"
+           stroke="#d62728"
+           stroke-width="47.659574468085104"
+           id="path35" />
+        <title
+           id="title36">Combinatorial → Operational research: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g37">
+        <path
+           d="M375,305.8510638297872C557.5,305.8510638297872,557.5,538.7765957446809,740,538.7765957446809"
+           stroke="#e377c2"
+           stroke-width="17.872340425531913"
+           id="path36" />
+        <title
+           id="title37">Linear algebra → Classical scientific computing: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g38">
+        <path
+           d="M375,154.89361702127658C557.5,154.89361702127658,557.5,506.0106382978724,740,506.0106382978724"
+           stroke="#9467bd"
+           stroke-width="47.659574468085104"
+           id="path37" />
+        <title
+           id="title38">Dynamical system → Classical scientific computing: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g39">
+        <path
+           d="M375,511.4893617021276C557.5,511.4893617021276,557.5,260.69148936170217,740,260.69148936170217"
+           stroke="#bcbd22"
+           stroke-width="53.61702127659574"
+           id="path38" />
+        <title
+           id="title39">Statistics → Machine learning &amp; Data science: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g40">
+        <path
+           d="M375,553.191489361702C557.5,553.191489361702,557.5,462.2872340425532,740,462.2872340425532"
+           stroke="#bcbd22"
+           stroke-width="29.78723404255319"
+           id="path39" />
+        <title
+           id="title40">Statistics → Operational research: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g41">
+        <path
+           d="M375,331.70212765957444C557.5,331.70212765957444,557.5,186.2234042553192,740,186.2234042553192"
+           stroke="#b8e986"
+           stroke-width="23.829787234042552"
+           id="path40" />
+        <title
+           id="title41">Optimization → Machine learning &amp; Data science: 4</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g42">
+        <path
+           d="M375,571.063829787234C557.5,571.063829787234,557.5,562.6063829787233,740,562.6063829787233"
+           stroke="#bcbd22"
+           stroke-width="5.957446808510638"
+           id="path41" />
+        <title
+           id="title42">Statistics → Classical scientific computing: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g43">
+        <path
+           d="M375,396.2765957446808C557.5,396.2765957446808,557.5,216.0106382978724,740,216.0106382978724"
+           stroke="#d62728"
+           stroke-width="35.744680851063826"
+           id="path42" />
+        <title
+           id="title43">Combinatorial → Machine learning &amp; Data science: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g44">
+        <path
+           d="M375,476.70212765957444C557.5,476.70212765957444,557.5,573.563829787234,740,573.563829787234"
+           stroke="#d62728"
+           stroke-width="5.957446808510638"
+           id="path43" />
+        <title
+           id="title44">Combinatorial → Cryptanalysis: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g45">
+        <path
+           d="M375,92.34042553191489C557.5,92.34042553191489,557.5,111.75531914893622,740,111.75531914893622"
+           stroke="#9467bd"
+           stroke-width="17.872340425531913"
+           id="path44" />
+        <title
+           id="title45">Dynamical system → Machine learning &amp; Data science: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g46">
+        <path
+           d="M375,582.0212765957447C557.5,582.0212765957447,557.5,579.5212765957447,740,579.5212765957447"
+           stroke="#50e3c2"
+           stroke-width="5.957446808510638"
+           id="path45" />
+        <title
+           id="title46">Hidden subgroup problem → Cryptanalysis: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g47">
+        <path
+           d="M375,467.76595744680844C557.5,467.76595744680844,557.5,553.6702127659574,740,553.6702127659574"
+           stroke="#d62728"
+           stroke-width="11.914893617021276"
+           id="path46" />
+        <title
+           id="title47">Combinatorial → Classical scientific computing: 2</title>
+      </g>
+    </g>
+    <g
+       id="g61">
+      <text
+         x="9"
+         y="78.98936170212765"
+         text-anchor="start"
+         id="text48"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan48">VQE</tspan></text>
+      <text
+         x="379"
+         y="89.36170212765957"
+         text-anchor="start"
+         id="text49"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan49">Dynamical system</tspan></text>
+      <text
+         x="379"
+         y="249.25531914893617"
+         text-anchor="start"
+         id="text50"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan50">Linear algebra</tspan></text>
+      <text
+         x="379"
+         y="346.595744680851"
+         text-anchor="start"
+         id="text51"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan51">Optimization</tspan></text>
+      <text
+         x="379"
+         y="429.04255319148933"
+         text-anchor="start"
+         id="text52"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan52">Combinatorial</tspan></text>
+      <text
+         x="9"
+         y="277.6063829787234"
+         text-anchor="start"
+         id="text53"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan53">QPE</tspan></text>
+      <text
+         x="379"
+         y="529.3617021276596"
+         text-anchor="start"
+         id="text54"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan54">Statistics</tspan></text>
+      <text
+         x="9"
+         y="491.1170212765957"
+         text-anchor="start"
+         id="text55"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan55">Grover</tspan></text>
+      <text
+         x="379"
+         y="582.0212765957447"
+         text-anchor="start"
+         id="text56"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan56">Hidden subgroup problem</tspan></text>
+      <text
+         x="736"
+         y="50.15957446808516"
+         text-anchor="end"
+         id="text57"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan57">First-principle quantum simulation</tspan></text>
+      <text
+         x="736"
+         y="195.15957446808517"
+         text-anchor="end"
+         id="text58"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan58">Machine learning &amp; Data science</tspan></text>
+      <text
+         x="736"
+         y="384.84042553191495"
+         text-anchor="end"
+         id="text59"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan59">Operational research</tspan></text>
+      <text
+         x="736"
+         y="523.8829787234042"
+         text-anchor="end"
+         id="text60"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan60">Classical scientific computing</tspan></text>
+      <text
+         x="736"
+         y="576.5425531914893"
+         text-anchor="end"
+         id="text61"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan61">Cryptanalysis</tspan></text>
+    </g>
+    <g
+       id="g64">
+      <text
+         x="2.5"
+         y="3.5"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text62">Subroutine</text>
+      <text
+         x="372.5"
+         y="-4"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text63">Foundamental math problem</text>
+      <text
+         x="718.97058"
+         y="-2.4803922"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text64">Application domain</text>
+    </g>
+  </g>
+</svg>

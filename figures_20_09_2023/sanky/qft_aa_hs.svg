@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg68"
+   sodipodi:docname="qft_aa_hs.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="qft_aa_hs.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     id="namedview68"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.02"
+     inkscape:cx="590.68627"
+     inkscape:cy="300"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg68" />
+  <rect
+     width="805"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="backgorund" />
+  <g
+     transform="translate(30,15)"
+     id="visualization">
+    <g
+       id="g14">
+      <rect
+         x="0"
+         y="7.5"
+         height="231.04895104895107"
+         width="5"
+         fill="black"
+         id="rect1">
+        <title
+           id="title1">QFT: 59</title>
+      </rect>
+      <rect
+         x="370"
+         y="0"
+         height="148.81118881118883"
+         width="5"
+         fill="black"
+         id="rect2">
+        <title
+           id="title2">Linear algebra: 38</title>
+      </rect>
+      <rect
+         x="370"
+         y="153.81118881118883"
+         height="121.39860139860136"
+         width="5"
+         fill="black"
+         id="rect3">
+        <title
+           id="title3">Dynamical system: 31</title>
+      </rect>
+      <rect
+         x="370"
+         y="280.2097902097902"
+         height="43.076923076923094"
+         width="5"
+         fill="black"
+         id="rect4">
+        <title
+           id="title4">Hidden subgroup problem: 11</title>
+      </rect>
+      <rect
+         x="370"
+         y="328.2867132867133"
+         height="62.65734265734267"
+         width="5"
+         fill="black"
+         id="rect5">
+        <title
+           id="title5">Optimization: 16</title>
+      </rect>
+      <rect
+         x="370"
+         y="395.94405594405595"
+         height="90.06993006993008"
+         width="5"
+         fill="black"
+         id="rect6">
+        <title
+           id="title6">Combinatorial: 23</title>
+      </rect>
+      <rect
+         x="370"
+         y="491.013986013986"
+         height="93.98601398601397"
+         width="5"
+         fill="black"
+         id="rect7">
+        <title
+           id="title7">Statistics: 24</title>
+      </rect>
+      <rect
+         x="0"
+         y="243.54895104895107"
+         height="129.23076923076925"
+         width="5"
+         fill="black"
+         id="rect8">
+        <title
+           id="title8">Hamiltonian simulations: 33</title>
+      </rect>
+      <rect
+         x="0"
+         y="377.7797202797203"
+         height="199.72027972027968"
+         width="5"
+         fill="black"
+         id="rect9">
+        <title
+           id="title9">AA: 51</title>
+      </rect>
+      <rect
+         x="740"
+         y="2.5"
+         height="211.46853146853147"
+         width="5"
+         fill="black"
+         id="rect10">
+        <title
+           id="title10">Machine learning &amp; Data science: 54</title>
+      </rect>
+      <rect
+         x="740"
+         y="218.96853146853147"
+         height="74.4055944055944"
+         width="5"
+         fill="black"
+         id="rect11">
+        <title
+           id="title11">First-principle quantum simulation: 19</title>
+      </rect>
+      <rect
+         x="740"
+         y="298.37412587412587"
+         height="140.97902097902102"
+         width="5"
+         fill="black"
+         id="rect12">
+        <title
+           id="title12">Operational research: 36</title>
+      </rect>
+      <rect
+         x="740"
+         y="444.3531468531469"
+         height="62.65734265734267"
+         width="5"
+         fill="black"
+         id="rect13">
+        <title
+           id="title13">Cryptanalysis: 16</title>
+      </rect>
+      <rect
+         x="740"
+         y="512.0104895104896"
+         height="70.4895104895104"
+         width="5"
+         fill="black"
+         id="rect14">
+        <title
+           id="title14">Classical scientific computing: 18</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="1"
+       id="g52">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g15">
+        <path
+           d="M5,34.91258741258741C187.5,34.91258741258741,187.5,27.412587412587413,370,27.412587412587413"
+           stroke="#2ca02c"
+           stroke-width="54.82517482517483"
+           id="path14" />
+        <title
+           id="title15">QFT → Linear algebra: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g16">
+        <path
+           d="M5,87.77972027972028C187.5,87.77972027972028,187.5,179.2657342657343,370,179.2657342657343"
+           stroke="#2ca02c"
+           stroke-width="50.909090909090914"
+           id="path15" />
+        <title
+           id="title16">QFT → Dynamical system: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g17">
+        <path
+           d="M5,128.8986013986014C187.5,128.8986013986014,187.5,295.87412587412587,370,295.87412587412587"
+           stroke="#2ca02c"
+           stroke-width="31.32867132867133"
+           id="path16" />
+        <title
+           id="title17">QFT → Hidden subgroup problem: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g18">
+        <path
+           d="M5,156.31118881118883C187.5,156.31118881118883,187.5,340.034965034965,370,340.034965034965"
+           stroke="#2ca02c"
+           stroke-width="23.496503496503497"
+           id="path17" />
+        <title
+           id="title18">QFT → Optimization: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g19">
+        <path
+           d="M5,183.7237762237762C187.5,183.7237762237762,187.5,411.6083916083916,370,411.6083916083916"
+           stroke="#2ca02c"
+           stroke-width="31.32867132867133"
+           id="path18" />
+        <title
+           id="title19">QFT → Combinatorial: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g20">
+        <path
+           d="M5,218.96853146853147C187.5,218.96853146853147,187.5,510.5944055944056,370,510.5944055944056"
+           stroke="#2ca02c"
+           stroke-width="39.16083916083916"
+           id="path19" />
+        <title
+           id="title20">QFT → Statistics: 10</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g21">
+        <path
+           d="M5,270.96153846153845C187.5,270.96153846153845,187.5,82.23776223776224,370,82.23776223776224"
+           stroke="#ff7f0e"
+           stroke-width="54.82517482517483"
+           id="path20" />
+        <title
+           id="title21">Hamiltonian simulations → Linear algebra: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g22">
+        <path
+           d="M5,366.9055944055944C187.5,366.9055944055944,187.5,536.048951048951,370,536.048951048951"
+           stroke="#ff7f0e"
+           stroke-width="11.748251748251748"
+           id="path21" />
+        <title
+           id="title22">Hamiltonian simulations → Statistics: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g23">
+        <path
+           d="M5,357.1153846153846C187.5,357.1153846153846,187.5,431.18881118881114,370,431.18881118881114"
+           stroke="#ff7f0e"
+           stroke-width="7.8321678321678325"
+           id="path22" />
+        <title
+           id="title23">Hamiltonian simulations → Combinatorial: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g24">
+        <path
+           d="M5,343.40909090909093C187.5,343.40909090909093,187.5,361.5734265734266,370,361.5734265734266"
+           stroke="#ff7f0e"
+           stroke-width="19.58041958041958"
+           id="path23" />
+        <title
+           id="title24">Hamiltonian simulations → Optimization: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g25">
+        <path
+           d="M5,315.99650349650346C187.5,315.99650349650346,187.5,222.34265734265736,370,222.34265734265736"
+           stroke="#ff7f0e"
+           stroke-width="35.24475524475525"
+           id="path24" />
+        <title
+           id="title25">Hamiltonian simulations → Dynamical system: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g26">
+        <path
+           d="M5,458.0594405594406C187.5,458.0594405594406,187.5,317.41258741258736,370,317.41258741258736"
+           stroke="#1f77b4"
+           stroke-width="11.748251748251748"
+           id="path25" />
+        <title
+           id="title26">AA → Hidden subgroup problem: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g27">
+        <path
+           d="M5,473.72377622377627C187.5,473.72377622377627,187.5,381.1538461538462,370,381.1538461538462"
+           stroke="#1f77b4"
+           stroke-width="19.58041958041958"
+           id="path26" />
+        <title
+           id="title27">AA → Optimization: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g28">
+        <path
+           d="M5,508.96853146853147C187.5,508.96853146853147,187.5,460.55944055944053,370,460.55944055944053"
+           stroke="#1f77b4"
+           stroke-width="50.909090909090914"
+           id="path27" />
+        <title
+           id="title28">AA → Combinatorial: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g29">
+        <path
+           d="M5,397.3601398601399C187.5,397.3601398601399,187.5,129.23076923076923,370,129.23076923076923"
+           stroke="#1f77b4"
+           stroke-width="39.16083916083916"
+           id="path28" />
+        <title
+           id="title29">AA → Linear algebra: 10</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g30">
+        <path
+           d="M5,434.56293706293707C187.5,434.56293706293707,187.5,257.5874125874126,370,257.5874125874126"
+           stroke="#1f77b4"
+           stroke-width="35.24475524475525"
+           id="path29" />
+        <title
+           id="title30">AA → Dynamical system: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g31">
+        <path
+           d="M5,555.9615384615385C187.5,555.9615384615385,187.5,563.4615384615385,370,563.4615384615385"
+           stroke="#1f77b4"
+           stroke-width="43.07692307692308"
+           id="path30" />
+        <title
+           id="title31">AA → Statistics: 11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g32">
+        <path
+           d="M375,31.32867132867133C557.5,31.32867132867133,557.5,33.828671328671334,740,33.828671328671334"
+           stroke="#e377c2"
+           stroke-width="62.65734265734266"
+           id="path31" />
+        <title
+           id="title32">Linear algebra → Machine learning &amp; Data science: 16</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g33">
+        <path
+           d="M375,70.4895104895105C557.5,70.4895104895105,557.5,226.8006993006993,740,226.8006993006993"
+           stroke="#e377c2"
+           stroke-width="15.664335664335665"
+           id="path32" />
+        <title
+           id="title33">Linear algebra → First-principle quantum simulation: 4</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g34">
+        <path
+           d="M375,101.81818181818181C557.5,101.81818181818181,557.5,321.8706293706294,740,321.8706293706294"
+           stroke="#e377c2"
+           stroke-width="46.99300699300699"
+           id="path33" />
+        <title
+           id="title34">Linear algebra → Operational research: 12</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g35">
+        <path
+           d="M375,206.6783216783217C557.5,206.6783216783217,557.5,260.0874125874126,740,260.0874125874126"
+           stroke="#9467bd"
+           stroke-width="50.909090909090914"
+           id="path34" />
+        <title
+           id="title35">Dynamical system → First-principle quantum simulation: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g36">
+        <path
+           d="M375,301.74825174825173C557.5,301.74825174825173,557.5,465.89160839160843,740,465.89160839160843"
+           stroke="#b8e986"
+           stroke-width="43.07692307692308"
+           id="path35" />
+        <title
+           id="title36">Hidden subgroup problem → Cryptanalysis: 11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g37">
+        <path
+           d="M375,387.027972027972C557.5,387.027972027972,557.5,491.34615384615387,740,491.34615384615387"
+           stroke="#50e3c2"
+           stroke-width="7.8321678321678325"
+           id="path36" />
+        <title
+           id="title37">Optimization → Cryptanalysis: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g38">
+        <path
+           d="M375,476.2237762237762C557.5,476.2237762237762,557.5,501.1363636363637,740,501.1363636363637"
+           stroke="#d62728"
+           stroke-width="11.748251748251748"
+           id="path37" />
+        <title
+           id="title38">Combinatorial → Cryptanalysis: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g39">
+        <path
+           d="M375,137.06293706293707C557.5,137.06293706293707,557.5,523.7587412587413,740,523.7587412587413"
+           stroke="#e377c2"
+           stroke-width="23.496503496503497"
+           id="path38" />
+        <title
+           id="title39">Linear algebra → Classical scientific computing: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g40">
+        <path
+           d="M375,520.3846153846154C557.5,520.3846153846154,557.5,184.59790209790214,740,184.59790209790214"
+           stroke="#bcbd22"
+           stroke-width="58.74125874125875"
+           id="path39" />
+        <title
+           id="title40">Statistics → Machine learning &amp; Data science: 15</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g41">
+        <path
+           d="M375,454.6853146853147C557.5,454.6853146853147,557.5,400.1923076923077,740,400.1923076923077"
+           stroke="#d62728"
+           stroke-width="31.32867132867133"
+           id="path40" />
+        <title
+           id="title41">Combinatorial → Operational research: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g42">
+        <path
+           d="M375,369.4055944055944C557.5,369.4055944055944,557.5,370.8216783216783,740,370.8216783216783"
+           stroke="#50e3c2"
+           stroke-width="27.412587412587413"
+           id="path41" />
+        <title
+           id="title42">Optimization → Operational research: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g43">
+        <path
+           d="M375,238.006993006993C557.5,238.006993006993,557.5,351.2412587412587,740,351.2412587412587"
+           stroke="#9467bd"
+           stroke-width="11.748251748251748"
+           id="path42" />
+        <title
+           id="title43">Dynamical system → Operational research: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g44">
+        <path
+           d="M375,561.5034965034965C557.5,561.5034965034965,557.5,427.60489510489504,740,427.60489510489504"
+           stroke="#bcbd22"
+           stroke-width="23.496503496503497"
+           id="path43" />
+        <title
+           id="title44">Statistics → Operational research: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g45">
+        <path
+           d="M375,341.993006993007C557.5,341.993006993007,557.5,106.27622377622379,740,106.27622377622379"
+           stroke="#50e3c2"
+           stroke-width="27.412587412587413"
+           id="path44" />
+        <title
+           id="title45">Optimization → Machine learning &amp; Data science: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g46">
+        <path
+           d="M375,579.1258741258741C557.5,579.1258741258741,557.5,576.6258741258742,740,576.6258741258742"
+           stroke="#bcbd22"
+           stroke-width="11.748251748251748"
+           id="path45" />
+        <title
+           id="title46">Statistics → Classical scientific computing: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g47">
+        <path
+           d="M375,413.56643356643355C557.5,413.56643356643355,557.5,137.60489510489512,740,137.60489510489512"
+           stroke="#d62728"
+           stroke-width="35.24475524475525"
+           id="path46" />
+        <title
+           id="title47">Combinatorial → Machine learning &amp; Data science: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g48">
+        <path
+           d="M375,167.51748251748253C557.5,167.51748251748253,557.5,78.86363636363637,740,78.86363636363637"
+           stroke="#9467bd"
+           stroke-width="27.412587412587413"
+           id="path47" />
+        <title
+           id="title48">Dynamical system → Machine learning &amp; Data science: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g49">
+        <path
+           d="M375,259.54545454545456C557.5,259.54545454545456,557.5,551.1713286713288,740,551.1713286713288"
+           stroke="#9467bd"
+           stroke-width="31.32867132867133"
+           id="path48" />
+        <title
+           id="title49">Dynamical system → Classical scientific computing: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g50">
+        <path
+           d="M375,484.05594405594405C557.5,484.05594405594405,557.5,568.7937062937064,740,568.7937062937064"
+           stroke="#d62728"
+           stroke-width="3.9160839160839163"
+           id="path49" />
+        <title
+           id="title50">Combinatorial → Classical scientific computing: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g51">
+        <path
+           d="M375,435.1048951048951C557.5,435.1048951048951,557.5,289.4580419580419,740,289.4580419580419"
+           stroke="#d62728"
+           stroke-width="7.8321678321678325"
+           id="path50" />
+        <title
+           id="title51">Combinatorial → First-principle quantum simulation: 2</title>
+      </g>
+    </g>
+    <g
+       id="g65">
+      <text
+         x="9"
+         y="123.02447552447553"
+         text-anchor="start"
+         id="text52"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan52">QFT</tspan></text>
+      <text
+         x="379"
+         y="74.40559440559441"
+         text-anchor="start"
+         id="text53"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan53">Linear algebra</tspan></text>
+      <text
+         x="379"
+         y="214.5104895104895"
+         text-anchor="start"
+         id="text54"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan54">Dynamical system</tspan></text>
+      <text
+         x="379"
+         y="301.74825174825173"
+         text-anchor="start"
+         id="text55"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan55">Hidden subgroup problem</tspan></text>
+      <text
+         x="379"
+         y="359.61538461538464"
+         text-anchor="start"
+         id="text56"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan56">Optimization</tspan></text>
+      <text
+         x="379"
+         y="440.979020979021"
+         text-anchor="start"
+         id="text57"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan57">Combinatorial</tspan></text>
+      <text
+         x="379"
+         y="538.0069930069931"
+         text-anchor="start"
+         id="text58"><tspan
+           alignment-baseline="middle"
+           x="379"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan58">Statistics</tspan></text>
+      <text
+         x="9"
+         y="308.1643356643357"
+         text-anchor="start"
+         id="text59"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan59">Hamiltonian simulations</tspan></text>
+      <text
+         x="9"
+         y="477.63986013986016"
+         text-anchor="start"
+         id="text60"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan60">AA</tspan></text>
+      <text
+         x="736"
+         y="108.23426573426573"
+         text-anchor="end"
+         id="text61"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan61">Machine learning &amp; Data science</tspan></text>
+      <text
+         x="736"
+         y="256.17132867132864"
+         text-anchor="end"
+         id="text62"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan62">First-principle quantum simulation</tspan></text>
+      <text
+         x="736"
+         y="368.8636363636364"
+         text-anchor="end"
+         id="text63"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan63">Operational research</tspan></text>
+      <text
+         x="736"
+         y="475.68181818181824"
+         text-anchor="end"
+         id="text64"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan64">Cryptanalysis</tspan></text>
+      <text
+         x="736"
+         y="547.2552447552448"
+         text-anchor="end"
+         id="text65"><tspan
+           alignment-baseline="middle"
+           x="736"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan65">Classical scientific computing</tspan></text>
+    </g>
+    <g
+       id="g68">
+      <text
+         x="3.4803922"
+         y="0.55882353"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text66">Subroutine</text>
+      <text
+         x="372.5"
+         y="-4"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text67">Foundamental math problem</text>
+      <text
+         x="717.99017"
+         y="-2.4803922"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text68">Application domain</text>
+    </g>
+  </g>
+</svg>
