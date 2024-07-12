@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="620"
+   height="464"
+   version="1.1"
+   id="svg102"
+   sodipodi:docname="sanky3_all.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="sanky3_all.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs102">
+    <rect
+       x="670.90235"
+       y="500.39293"
+       width="714.74763"
+       height="531.71099"
+       id="rect24" />
+    <rect
+       x="-33.405926"
+       y="-26.446358"
+       width="695.95679"
+       height="571.38053"
+       id="rect23" />
+    <rect
+       x="656.98321"
+       y="463.50722"
+       width="673.68618"
+       height="495.52124"
+       id="rect22" />
+    <rect
+       x="675.77405"
+       y="501.78485"
+       width="700.13253"
+       height="541.45439"
+       id="rect21" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview102"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.4368708"
+     inkscape:cx="290.56196"
+     inkscape:cy="239.75712"
+     inkscape:window-width="1845"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visualization" />
+  <rect
+     width="611.59393"
+     height="461.8985"
+     x="3.677654"
+     y="2.1015165"
+     fill="#ffffff"
+     id="background"
+     style="stroke-width:0.990945" />
+  <g
+     transform="translate(4,13)"
+     id="visualization">
+    <g
+       id="g20">
+      <rect
+         x="606"
+         y="5"
+         height="127.63636363636363"
+         width="5"
+         fill="black"
+         id="rect1">
+        <title
+           id="title1">DS: 81</title>
+      </rect>
+      <rect
+         x="0"
+         y="0"
+         height="121.33333333333331"
+         width="5"
+         fill="black"
+         id="rect2">
+        <title
+           id="title2">QFT: 77</title>
+      </rect>
+      <rect
+         x="0"
+         y="126.33333333333331"
+         height="108.72727272727272"
+         width="5"
+         fill="black"
+         id="rect3">
+        <title
+           id="title3">AA: 69</title>
+      </rect>
+      <rect
+         x="303"
+         y="4.999999999999943"
+         height="104"
+         width="5"
+         fill="black"
+         id="rect4">
+        <title
+           id="title4">LA: 66</title>
+      </rect>
+      <rect
+         x="303"
+         y="113.99999999999994"
+         height="104"
+         width="5"
+         fill="black"
+         id="rect5">
+        <title
+           id="title5">COM: 66</title>
+      </rect>
+      <rect
+         x="606"
+         y="137.63636363636363"
+         height="102.42424242424244"
+         width="5"
+         fill="black"
+         id="rect6">
+        <title
+           id="title6">OP: 65</title>
+      </rect>
+      <rect
+         x="303"
+         y="222.99999999999994"
+         height="88.24242424242425"
+         width="5"
+         fill="black"
+         id="rect7">
+        <title
+           id="title7">DYS: 56</title>
+      </rect>
+      <rect
+         x="606"
+         y="245.06060606060606"
+         height="75.63636363636363"
+         width="5"
+         fill="black"
+         id="rect8">
+        <title
+           id="title8">CSC: 48</title>
+      </rect>
+      <rect
+         x="606"
+         y="325.6969696969697"
+         height="64.60606060606062"
+         width="5"
+         fill="black"
+         id="rect9">
+        <title
+           id="title9">FQS: 41</title>
+      </rect>
+      <rect
+         x="303"
+         y="316.2424242424242"
+         height="56.72727272727275"
+         width="5"
+         fill="black"
+         id="rect10">
+        <title
+           id="title10">ST: 36</title>
+      </rect>
+      <rect
+         x="0"
+         y="240.06060606060603"
+         height="48.848484848484844"
+         width="5"
+         fill="black"
+         id="rect11">
+        <title
+           id="title11">AQC: 31</title>
+      </rect>
+      <rect
+         x="303"
+         y="377.96969696969694"
+         height="42.54545454545456"
+         width="5"
+         fill="black"
+         id="rect12">
+        <title
+           id="title12">OP: 27</title>
+      </rect>
+      <rect
+         x="0"
+         y="293.9090909090909"
+         height="37.81818181818181"
+         width="5"
+         fill="black"
+         id="rect13">
+        <title
+           id="title13">VQE: 24</title>
+      </rect>
+      <rect
+         x="0"
+         y="336.7272727272727"
+         height="34.666666666666686"
+         width="5"
+         fill="black"
+         id="rect14">
+        <title
+           id="title14">HS: 22</title>
+      </rect>
+      <rect
+         x="606"
+         y="395.3030303030303"
+         height="34.666666666666686"
+         width="5"
+         fill="black"
+         id="rect15">
+        <title
+           id="title15">CR: 22</title>
+      </rect>
+      <rect
+         x="0"
+         y="376.3939393939394"
+         height="28.363636363636374"
+         width="5"
+         fill="black"
+         id="rect16">
+        <title
+           id="title16">BE: 18</title>
+      </rect>
+      <rect
+         x="0"
+         y="409.75757575757575"
+         height="22.060606060606062"
+         width="5"
+         fill="black"
+         id="rect17">
+        <title
+           id="title17">BS: 14</title>
+      </rect>
+      <rect
+         x="303"
+         y="425.5151515151515"
+         height="20.4848484848485"
+         width="5"
+         fill="black"
+         id="rect18">
+        <title
+           id="title18">HSP: 13</title>
+      </rect>
+      <rect
+         x="0"
+         y="436.8181818181818"
+         height="14.181818181818187"
+         width="5"
+         fill="black"
+         id="rect19">
+        <title
+           id="title19">SwapTest: 9</title>
+      </rect>
+      <rect
+         x="606"
+         y="434.969696969697"
+         height="11.030303030303003"
+         width="5"
+         fill="black"
+         id="rect20">
+        <title
+           id="title20">QE: 7</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="1"
+       id="g80">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g21">
+        <path
+           d="M5,385.06060606060606C154,385.06060606060606,154,97.18181818181813,303,97.18181818181813"
+           stroke="#bcbd22"
+           stroke-width="17.333333333333332"
+           id="path20" />
+        <title
+           id="title21">BE → LA: 11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g22">
+        <path
+           d="M5,395.30303030303025C154,395.30303030303025,154,202.2424242424242,303,202.2424242424242"
+           stroke="#bcbd22"
+           stroke-width="3.1515151515151514"
+           id="path21" />
+        <title
+           id="title22">BE → COM: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g23">
+        <path
+           d="M5,400.81818181818176C154,400.81818181818176,154,410.2727272727272,303,410.2727272727272"
+           stroke="#bcbd22"
+           stroke-width="7.878787878787879"
+           id="path22" />
+        <title
+           id="title23">BE → OP: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g24">
+        <path
+           d="M5,427.09090909090907C154,427.09090909090907,154,365.090909090909,303,365.090909090909"
+           stroke="#17becf"
+           stroke-width="3.1515151515151514"
+           id="path23" />
+        <title
+           id="title24">BS → ST: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g25">
+        <path
+           d="M5,416.8484848484848C154,416.8484848484848,154,210.90909090909088,303,210.90909090909088"
+           stroke="#17becf"
+           stroke-width="14.181818181818182"
+           id="path24" />
+        <title
+           id="title25">BS → COM: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g26">
+        <path
+           d="M5,430.2424242424242C154,430.2424242424242,154,415.7878787878787,303,415.7878787878787"
+           stroke="#17becf"
+           stroke-width="3.1515151515151514"
+           id="path25" />
+        <title
+           id="title26">BS → OP: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g27">
+        <path
+           d="M5,424.72727272727275C154,424.72727272727275,154,308.8787878787878,303,308.8787878787878"
+           stroke="#17becf"
+           stroke-width="1.5757575757575757"
+           id="path26" />
+        <title
+           id="title27">BS → DYS: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g28">
+        <path
+           d="M5,347.7575757575757C154,347.7575757575757,154,77.48484848484843,303,77.48484848484843"
+           stroke="#7bafde"
+           stroke-width="22.06060606060606"
+           id="path27" />
+        <title
+           id="title28">HS → LA: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g29">
+        <path
+           d="M5,365.8787878787878C154,365.8787878787878,154,302.5757575757575,303,302.5757575757575"
+           stroke="#7bafde"
+           stroke-width="11.03030303030303"
+           id="path28" />
+        <title
+           id="title29">HS → DYS: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g30">
+        <path
+           d="M5,359.57575757575756C154,359.57575757575756,154,199.87878787878785,303,199.87878787878785"
+           stroke="#7bafde"
+           stroke-width="1.5757575757575757"
+           id="path29" />
+        <title
+           id="title30">HS → COM: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g31">
+        <path
+           d="M5,444.69696969696963C154,444.69696969696963,154,369.8181818181817,303,369.8181818181817"
+           stroke="#cae0ab"
+           stroke-width="6.303030303030303"
+           id="path30" />
+        <title
+           id="title31">SwapTest → ST: 4</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g32">
+        <path
+           d="M5,438.3939393939394C154,438.3939393939394,154,107.42424242424237,303,107.42424242424237"
+           stroke="#cae0ab"
+           stroke-width="3.1515151515151514"
+           id="path31" />
+        <title
+           id="title32">SwapTest → LA: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g33">
+        <path
+           d="M5,449.4242424242424C154,449.4242424242424,154,418.9393939393938,303,418.9393939393938"
+           stroke="#cae0ab"
+           stroke-width="3.1515151515151514"
+           id="path32" />
+        <title
+           id="title33">SwapTest → OP: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g34">
+        <path
+           d="M5,440.75757575757575C154,440.75757575757575,154,310.4545454545454,303,310.4545454545454"
+           stroke="#cae0ab"
+           stroke-width="1.5757575757575757"
+           id="path33" />
+        <title
+           id="title34">SwapTest → DYS: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g35">
+        <path
+           d="M5,165.72727272727272C154,165.72727272727272,154,156.5454545454545,303,156.5454545454545"
+           stroke="#e377c2"
+           stroke-width="44.12121212121212"
+           id="path34" />
+        <title
+           id="title35">AA → COM: 28</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g36">
+        <path
+           d="M5,233.48484848484847C154,233.48484848484847,154,439.6969696969697,303,439.6969696969697"
+           stroke="#e377c2"
+           stroke-width="3.1515151515151514"
+           id="path35" />
+        <title
+           id="title36">AA → HSP: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g37">
+        <path
+           d="M5,194.87878787878788C154,194.87878787878788,154,256.8787878787878,303,256.8787878787878"
+           stroke="#e377c2"
+           stroke-width="14.181818181818182"
+           id="path36" />
+        <title
+           id="title37">AA → DYS: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g38">
+        <path
+           d="M5,134.99999999999997C154,134.99999999999997,154,46.757575757575694,303,46.757575757575694"
+           stroke="#e377c2"
+           stroke-width="17.333333333333332"
+           id="path37" />
+        <title
+           id="title38">AA → LA: 11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g39">
+        <path
+           d="M5,227.96969696969697C154,227.96969696969697,154,392.9393939393939,303,392.9393939393939"
+           stroke="#e377c2"
+           stroke-width="7.878787878787879"
+           id="path38" />
+        <title
+           id="title39">AA → OP: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g40">
+        <path
+           d="M5,213C154,213,154,344.6060606060605,303,344.6060606060605"
+           stroke="#e377c2"
+           stroke-width="22.06060606060606"
+           id="path39" />
+        <title
+           id="title40">AA → ST: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g41">
+        <path
+           d="M5,272.3636363636364C154,272.3636363636364,154,359.5757575757575,303,359.5757575757575"
+           stroke="#f5c141"
+           stroke-width="7.878787878787879"
+           id="path40" />
+        <title
+           id="title41">AQC → ST: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g42">
+        <path
+           d="M5,253.45454545454544C154,253.45454545454544,154,188.84848484848482,303,188.84848484848482"
+           stroke="#f5c141"
+           stroke-width="20.484848484848484"
+           id="path41" />
+        <title
+           id="title42">AQC → COM: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g43">
+        <path
+           d="M5,280.24242424242425C154,280.24242424242425,154,400.81818181818176,303,400.81818181818176"
+           stroke="#f5c141"
+           stroke-width="7.878787878787879"
+           id="path42" />
+        <title
+           id="title43">AQC → OP: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g44">
+        <path
+           d="M5,266.06060606060606C154,266.06060606060606,154,266.33333333333326,303,266.33333333333326"
+           stroke="#f5c141"
+           stroke-width="4.727272727272727"
+           id="path43" />
+        <title
+           id="title44">AQC → DYS: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g45">
+        <path
+           d="M5,286.54545454545456C154,286.54545454545456,154,443.6363636363636,303,443.6363636363636"
+           stroke="#f5c141"
+           stroke-width="4.727272727272727"
+           id="path44" />
+        <title
+           id="title45">AQC → HSP: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g46">
+        <path
+           d="M5,241.6363636363636C154,241.6363636363636,154,56.99999999999994,303,56.99999999999994"
+           stroke="#f5c141"
+           stroke-width="3.1515151515151514"
+           id="path45" />
+        <title
+           id="title46">AQC → LA: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g47">
+        <path
+           d="M5,16.545454545454543C154,16.545454545454543,154,21.545454545454486,303,21.545454545454486"
+           stroke="#fe001f"
+           stroke-width="33.090909090909086"
+           id="path46" />
+        <title
+           id="title47">QFT → LA: 21</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g48">
+        <path
+           d="M5,66.96969696969697C154,66.96969696969697,154,236.39393939393935,303,236.39393939393935"
+           stroke="#fe001f"
+           stroke-width="26.787878787878785"
+           id="path47" />
+        <title
+           id="title48">QFT → DYS: 17</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g49">
+        <path
+           d="M5,115.03030303030302C154,115.03030303030302,154,431.8181818181818,303,431.8181818181818"
+           stroke="#fe001f"
+           stroke-width="12.606060606060606"
+           id="path48" />
+        <title
+           id="title49">QFT → HSP: 8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g50">
+        <path
+           d="M5,103.2121212121212C154,103.2121212121212,154,383.48484848484844,303,383.48484848484844"
+           stroke="#fe001f"
+           stroke-width="11.03030303030303"
+           id="path49" />
+        <title
+           id="title50">QFT → OP: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g51">
+        <path
+           d="M5,43.33333333333333C154,43.33333333333333,154,124.24242424242419,303,124.24242424242419"
+           stroke="#fe001f"
+           stroke-width="20.484848484848484"
+           id="path50" />
+        <title
+           id="title51">QFT → COM: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g52">
+        <path
+           d="M5,89.03030303030303C154,89.03030303030303,154,324.9090909090909,303,324.9090909090909"
+           stroke="#fe001f"
+           stroke-width="17.333333333333332"
+           id="path51" />
+        <title
+           id="title52">QFT → ST: 11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g53">
+        <path
+           d="M5,315.96969696969694C154,315.96969696969694,154,282.8787878787878,303,282.8787878787878"
+           stroke="#90c987"
+           stroke-width="28.363636363636363"
+           id="path52" />
+        <title
+           id="title53">VQE → DYS: 18</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g54">
+        <path
+           d="M5,297.8484848484848C154,297.8484848484848,154,62.51515151515145,303,62.51515151515145"
+           stroke="#90c987"
+           stroke-width="7.878787878787879"
+           id="path53" />
+        <title
+           id="title54">VQE → LA: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g55">
+        <path
+           d="M5,330.93939393939394C154,330.93939393939394,154,405.5454545454545,303,405.5454545454545"
+           stroke="#90c987"
+           stroke-width="1.5757575757575757"
+           id="path54" />
+        <title
+           id="title55">VQE → OP: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g56">
+        <path
+           d="M308,92.4545454545454C457,92.4545454545454,457,332.78787878787875,606,332.78787878787875"
+           stroke="#a34538"
+           stroke-width="14.181818181818182"
+           id="path55" />
+        <title
+           id="title56">LA → FQS: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g57">
+        <path
+           d="M308,24.69696969696964C457,24.69696969696964,457,24.696969696969695,606,24.696969696969695"
+           stroke="#a34538"
+           stroke-width="39.39393939393939"
+           id="path56" />
+        <title
+           id="title57">LA → DS: 25</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g58">
+        <path
+           d="M308,75.12121212121207C457,75.12121212121207,457,255.3030303030303,606,255.3030303030303"
+           stroke="#a34538"
+           stroke-width="20.484848484848484"
+           id="path57" />
+        <title
+           id="title58">LA → CSC: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g59">
+        <path
+           d="M308,54.636363636363576C457,54.636363636363576,457,147.87878787878788,606,147.87878787878788"
+           stroke="#a34538"
+           stroke-width="20.484848484848484"
+           id="path58" />
+        <title
+           id="title59">LA → OP: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g60">
+        <path
+           d="M308,173.87878787878782C457,173.87878787878782,457,178.60606060606062,606,178.60606060606062"
+           stroke="#1f77b4"
+           stroke-width="40.96969696969697"
+           id="path59" />
+        <title
+           id="title60">COM → OP: 26</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g61">
+        <path
+           d="M308,104.27272727272722C457,104.27272727272722,457,439.69696969696975,606,439.69696969696975"
+           stroke="#a34538"
+           stroke-width="9.454545454545453"
+           id="path60" />
+        <title
+           id="title61">LA → QE: 6</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g62">
+        <path
+           d="M308,419.7272727272727C457,419.7272727272727,457,445.21212121212125,606,445.21212121212125"
+           stroke="#9467bd"
+           stroke-width="1.5757575757575757"
+           id="path61" />
+        <title
+           id="title62">OP → QE: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g63">
+        <path
+           d="M308,403.18181818181813C457,403.18181818181813,457,230.60606060606062,606,230.60606060606062"
+           stroke="#9467bd"
+           stroke-width="18.909090909090907"
+           id="path62" />
+        <title
+           id="title63">OP → OP: 12</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g64">
+        <path
+           d="M308,133.69696969696963C457,133.69696969696963,457,64.0909090909091,606,64.0909090909091"
+           stroke="#1f77b4"
+           stroke-width="39.39393939393939"
+           id="path63" />
+        <title
+           id="title64">COM → DS: 25</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g65">
+        <path
+           d="M308,372.18181818181813C457,372.18181818181813,457,389.51515151515156,606,389.51515151515156"
+           stroke="#9b9b9b"
+           stroke-width="1.5757575757575757"
+           id="path64" />
+        <title
+           id="title65">ST → FQS: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g66">
+        <path
+           d="M308,202.24242424242416C457,202.24242424242416,457,273.42424242424244,606,273.42424242424244"
+           stroke="#1f77b4"
+           stroke-width="15.757575757575758"
+           id="path65" />
+        <title
+           id="title66">COM → CSC: 10</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g67">
+        <path
+           d="M308,414.2121212121212C457,414.2121212121212,457,319.1212121212121,606,319.1212121212121"
+           stroke="#9467bd"
+           stroke-width="3.1515151515151514"
+           id="path66" />
+        <title
+           id="title67">OP → CSC: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g68">
+        <path
+           d="M308,331.21212121212113C457,331.21212121212113,457,101.9090909090909,606,101.9090909090909"
+           stroke="#9b9b9b"
+           stroke-width="29.939393939393938"
+           id="path67" />
+        <title
+           id="title68">ST → DS: 19</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g69">
+        <path
+           d="M308,283.66666666666663C457,283.66666666666663,457,364.3030303030303,606,364.3030303030303"
+           stroke="#ff7f0e"
+           stroke-width="48.848484848484844"
+           id="path68" />
+        <title
+           id="title69">DYS → FQS: 31</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g70">
+        <path
+           d="M308,248.21212121212116C457,248.21212121212116,457,292.3333333333333,606,292.3333333333333"
+           stroke="#ff7f0e"
+           stroke-width="22.06060606060606"
+           id="path69" />
+        <title
+           id="title70">DYS → CSC: 14</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g71">
+        <path
+           d="M308,385.8484848484848C457,385.8484848484848,457,124.75757575757575,606,124.75757575757575"
+           stroke="#9467bd"
+           stroke-width="15.757575757575758"
+           id="path70" />
+        <title
+           id="title71">OP → DS: 10</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g72">
+        <path
+           d="M308,364.3030303030302C457,364.3030303030302,457,310.45454545454544,606,310.45454545454544"
+           stroke="#9b9b9b"
+           stroke-width="14.181818181818182"
+           id="path71" />
+        <title
+           id="title72">ST → CSC: 9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g73">
+        <path
+           d="M308,214.06060606060598C457,214.06060606060598,457,399.24242424242425,606,399.24242424242425"
+           stroke="#1f77b4"
+           stroke-width="7.878787878787879"
+           id="path72" />
+        <title
+           id="title73">COM → CR: 5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g74">
+        <path
+           d="M308,435.75757575757575C457,435.75757575757575,457,419.7272727272727,606,419.7272727272727"
+           stroke="#2ca02c"
+           stroke-width="20.484848484848484"
+           id="path73" />
+        <title
+           id="title74">HSP → CR: 13</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g75">
+        <path
+           d="M308,231.6666666666666C457,231.6666666666666,457,204.6060606060606,606,204.6060606060606"
+           stroke="#ff7f0e"
+           stroke-width="11.03030303030303"
+           id="path74" />
+        <title
+           id="title75">DYS → OP: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g76">
+        <path
+           d="M308,351.69696969696963C457,351.69696969696963,457,215.63636363636363,606,215.63636363636363"
+           stroke="#9b9b9b"
+           stroke-width="11.03030303030303"
+           id="path75" />
+        <title
+           id="title76">ST → OP: 7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g77">
+        <path
+           d="M308,224.5757575757575C457,224.5757575757575,457,85.36363636363636,606,85.36363636363636"
+           stroke="#ff7f0e"
+           stroke-width="3.1515151515151514"
+           id="path76" />
+        <title
+           id="title77">DYS → DS: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g78">
+        <path
+           d="M308,309.6666666666666C457,309.6666666666666,457,404.75757575757575,606,404.75757575757575"
+           stroke="#ff7f0e"
+           stroke-width="3.1515151515151514"
+           id="path77" />
+        <title
+           id="title78">DYS → CR: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g79">
+        <path
+           d="M308,417.3636363636363C457,417.3636363636363,457,407.9090909090909,606,407.9090909090909"
+           stroke="#9467bd"
+           stroke-width="3.1515151515151514"
+           id="path78" />
+        <title
+           id="title79">OP → CR: 2</title>
+      </g>
+    </g>
+    <g
+       id="g99">
+      <text
+         x="604.96704"
+         y="63.25053"
+         text-anchor="end"
+         id="text80"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="565.81024"
+           y="63.25053"><tspan
+             alignment-baseline="middle"
+             x="565.81024"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan80">Machine Learning</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           x="565.81024"
+           y="75.025238"><tspan
+             alignment-baseline="middle"
+             x="565.81024"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan27">&amp; Data Science</tspan></tspan></text>
+      <text
+         x="9"
+         y="60.666668"
+         text-anchor="start"
+         id="text81"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan81">Q. Fourier Transform</tspan></text>
+      <text
+         x="9"
+         y="184.15265"
+         text-anchor="start"
+         id="text82"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan82">Amplitude Amplification</tspan></text>
+      <text
+         x="312"
+         y="57"
+         text-anchor="start"
+         id="text83"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="312"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan83">Linear Algebra</tspan></text>
+      <text
+         x="312.52539"
+         y="171.77917"
+         text-anchor="start"
+         id="text84"
+         style="font-size:9.33333px"><tspan
+           alignment-baseline="middle"
+           x="312.52539"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan84">Combinatorics</tspan></text>
+      <text
+         x="605.15228"
+         y="193.57689"
+         text-anchor="end"
+         id="text85"
+         style="font-size:9.33333px;fill:#000000"><tspan
+           alignment-baseline="middle"
+           x="605.15228"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan85"><tspan
+   style="font-size:9.33333px;fill:#000000"
+   id="tspan106">Op</tspan>erational Research</tspan></text>
+      <text
+         x="312.52539"
+         y="271.32425"
+         text-anchor="start"
+         id="text86"
+         style="font-size:9.33333px"><tspan
+           alignment-baseline="middle"
+           x="312.52539"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan86">Dynamical Systems</tspan></text>
+      <text
+         x="604.17987"
+         y="271.09311"
+         text-anchor="end"
+         id="text87"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="559.27692"
+           y="271.09311"
+           style="fill:#000000"><tspan
+             alignment-baseline="middle"
+             x="559.27692"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan87">Classical</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="559.27692"
+           y="282.86783"><tspan
+             alignment-baseline="middle"
+             x="559.27692"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan4">Scientifc Computing</tspan></tspan></text>
+      <text
+         x="636.26227"
+         y="352.22083"
+         text-anchor="end"
+         id="text88"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle;white-space:pre;inline-size:121.08;display:inline;fill:#000000"
+         transform="translate(-63.839099,3.9285599)"
+         xml:space="preserve"><tspan
+           x="636.26227"
+           y="352.22083"
+           id="tspan6"><tspan
+   style="font-weight:bold;font-family:Arial, sans-serif"
+   id="tspan5">First-Principle</tspan>&#10;</tspan><tspan
+           x="636.26227"
+           y="363.99555"
+           id="tspan14"><tspan
+             style="font-weight:bold;font-family:Arial, sans-serif"
+             id="tspan7">Q. Simulation</tspan></tspan></text>
+      <text
+         x="402.44907"
+         y="342.46457"
+         text-anchor="start"
+         id="text89"
+         style="font-size:9.33333px;text-align:center;text-anchor:middle;fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="359.78601"
+           y="342.46457"><tspan
+             alignment-baseline="middle"
+             x="359.78601"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan89">Stochastic Processes</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           x="359.78601"
+           y="354.23929"><tspan
+             alignment-baseline="middle"
+             x="359.78601"
+             style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan10">&amp; Statistics</tspan></tspan></text>
+      <text
+         x="9"
+         y="268.97723"
+         text-anchor="start"
+         id="text90"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan90">Q. Adiabatic</tspan></text>
+      <text
+         x="312.52539"
+         y="402.92007"
+         text-anchor="start"
+         id="text91"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="312.52539"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan91">Optimization</tspan></text>
+      <text
+         x="9"
+         y="316.61942"
+         text-anchor="start"
+         id="text92"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan92">Variational Q. Eigensolver</tspan></text>
+      <text
+         x="9"
+         y="357.86185"
+         text-anchor="start"
+         id="text93"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan93">Hamiltonian Simulations</tspan></text>
+      <text
+         x="605.15228"
+         y="411.06021"
+         text-anchor="end"
+         id="text94"
+         style="font-size:9.33333px"><tspan
+           alignment-baseline="middle"
+           x="605.15228"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan94">Cryptanalysis</tspan></text>
+      <text
+         x="9"
+         y="393.68585"
+         text-anchor="start"
+         id="text95"
+         style="font-size:9.33333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan95">Block Encoding</tspan></text>
+      <text
+         x="9.3455677"
+         y="423.55243"
+         text-anchor="start"
+         id="text96"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9.3455677"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan96">Boson Sampling</tspan></text>
+      <text
+         x="312"
+         y="439.9606"
+         text-anchor="start"
+         id="text97"
+         style="font-size:9.33333px"><tspan
+           alignment-baseline="middle"
+           x="312"
+           style="font-weight:bold;font-size:9.33333px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan97">Hidden-Subgroup Problems</tspan></text>
+      <text
+         x="9"
+         y="447.36478"
+         text-anchor="start"
+         id="text98"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan98">Swap Test</tspan></text>
+      <text
+         x="602.52539"
+         y="444.16251"
+         text-anchor="end"
+         id="text99"
+         style="font-size:9.33333333px"><tspan
+           alignment-baseline="middle"
+           x="602.52539"
+           style="font-weight:bold;font-family:Arial, sans-serif;fill:#000000;font-size:9.33333333px"
+           id="tspan99">Q. Enablement</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.33333333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff"
+         x="550.27502"
+         y="280.68695"
+         id="text103"><tspan
+           sodipodi:role="line"
+           id="tspan102"
+           x="550.27502"
+           y="280.68695"> </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffffff"
+         x="542.39429"
+         y="66.332253"
+         id="text104"><tspan
+           sodipodi:role="line"
+           id="tspan103"
+           x="542.39429"
+           y="66.332253" /></text>
+    </g>
+    <g
+       id="g102">
+      <text
+         x="551.13574"
+         y="1.3455678"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text100">Application Domains</text>
+      <text
+         x="53.472027"
+         y="-1.9265934"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text101">Popular Primitives</text>
+      <text
+         x="305.5"
+         y="1"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text102">Mathematical Classes</text>
+      <text
+         xml:space="preserve"
+         transform="translate(-4,-13)"
+         id="text1"
+         style="font-size:9.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;white-space:pre;shape-inside:url(#rect21);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-4,-13)"
+         id="text21"
+         style="font-size:9.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-4,-13)"
+         id="text22"
+         style="font-size:9.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;white-space:pre;shape-inside:url(#rect23);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         transform="translate(-4,-13)"
+         id="text23"
+         style="font-size:9.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#000000" />
+    </g>
+  </g>
+</svg>
